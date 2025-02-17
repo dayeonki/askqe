@@ -1,0 +1,9 @@
+,synonym.jsonl,word_order.jsonl,spelling.jsonl,expansion_noimpact.jsonl,intensifier.jsonl,expansion_impact.jsonl,omission.jsonl,alteration.jsonl
+synonym.jsonl,971,2,37,33,4,3,3,0
+word_order.jsonl,2,971,3,2,0,1,4,0
+spelling.jsonl,37,3,971,33,3,1,4,0
+expansion_noimpact.jsonl,33,2,33,971,12,13,3,0
+intensifier.jsonl,4,0,3,12,971,0,1,2
+expansion_impact.jsonl,3,1,1,13,0,971,0,1
+omission.jsonl,3,4,4,3,1,0,971,1
+alteration.jsonl,0,0,0,0,2,1,1,971

@@ -1,0 +1,2317 @@
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "It doesn't specify what is causing the sharp pain", "hypothesis": "None mentioned"}
+{"source": "It doesn't specify the severity of the pain", "hypothesis": "Unknown"}
+{"source": "No answer in the given sentence as it's a question", "hypothesis": "No"}
+{"source": "No answer in the given sentence as it's a question", "hypothesis": "No information is given"}
+{"source": "You", "hypothesis": "You do"}
+{"source": "Coughing often", "hypothesis": "Having the cough"}
+{"source": "They cough often", "hypothesis": "No reason is given in the sentence"}
+{"source": "They cough often", "hypothesis": "No reason is given in the sentence"}
+{"source": "No", "hypothesis": "As far as you know, yes"}
+{"source": "You currently have any", "hypothesis": "As far as you know"}
+{"source": "Your loved ones", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "a slight pain", "hypothesis": "A pain"}
+{"source": "in the front of my chest", "hypothesis": "In the front part of the chest"}
+{"source": "No information provided", "hypothesis": "No information"}
+{"source": "mild", "hypothesis": "No information"}
+{"source": "No information provided", "hypothesis": "No information"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "It", "hypothesis": "It"}
+{"source": "Towards the back of your neck", "hypothesis": "Up to your neck"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The chest", "hypothesis": "The chest"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "On your screen", "hypothesis": "On your screen"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Sharp pain", "hypothesis": "This type of chest pain"}
+{"source": "No", "hypothesis": "You might have high blood pressure"}
+{"source": "This morning", "hypothesis": "This morning"}
+{"source": "Morning", "hypothesis": "Morning"}
+{"source": "Since this morning", "hypothesis": "Since this morning"}
+{"source": "Sudden", "hypothesis": "Chest pain"}
+{"source": "the prevalence of specific underlying health conditions among patients with coronavirus disease 2019", "hypothesis": "Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019"}
+{"source": "United States", "hypothesis": "United States"}
+{"source": "February 12–March 28, 2020", "hypothesis": "February 12–March 28, 2020"}
+{"source": "March 11, 2020", "hypothesis": "March 11, 2020"}
+{"source": "coronavirus disease 2019", "hypothesis": "Coronavirus Disease 2019"}
+{"source": "571,678", "hypothesis": "571,678"}
+{"source": "26,494", "hypothesis": "26,494"}
+{"source": "Increased risk of developing severe COVID-19 disease", "hypothesis": "Higher"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes, particularly"}
+{"source": "No", "hypothesis": "No"}
+{"source": "122,653", "hypothesis": "122,653"}
+{"source": "5.8%", "hypothesis": "5.8%"}
+{"source": "7,162", "hypothesis": "7,162"}
+{"source": "2,692", "hypothesis": "2,692"}
+{"source": "37.6%", "hypothesis": "37.6%"}
+{"source": "4,470", "hypothesis": "4,470"}
+{"source": "62.4%", "hypothesis": "62.4%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "358", "hypothesis": "358"}
+{"source": "78%", "hypothesis": "78%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "732", "hypothesis": "732"}
+{"source": "71%", "hypothesis": "71%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "1,388", "hypothesis": "1,388"}
+{"source": "27%", "hypothesis": "27%"}
+{"source": "Diabetes mellitus, chronic lung disease, and serious cardiovascular disease", "hypothesis": "Diabetes mellitus, chronic lung disease, and cardiovascular disease"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Unknown", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "The approximate date of disease onset was estimated", "hypothesis": "Date of onset was estimated"}
+{"source": "By subtracting 4 days from the first sample collection", "hypothesis": "Date of onset was estimated by subtracting 4 days from the earliest specimen collection"}
+{"source": "4 days", "hypothesis": "4 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "37.6%", "hypothesis": "37.6%"}
+{"source": "2,692", "hypothesis": "2,692"}
+{"source": "784", "hypothesis": "784"}
+{"source": "10.9%", "hypothesis": "10.9%"}
+{"source": "656", "hypothesis": "656"}
+{"source": "647", "hypothesis": "647"}
+{"source": "9.0%", "hypothesis": "9.0%"}
+{"source": "Diabetes mellitus, chronic lung disease, and cardiovascular disease", "hypothesis": "Diabetes mellitus, chronic lung disease, and cardiovascular disease"}
+{"source": "4,755", "hypothesis": "1,388"}
+{"source": "73%", "hypothesis": "27%"}
+{"source": "27.3%–29.8%", "hypothesis": "27.3%–29.8%"}
+{"source": "7.2%–7.8%", "hypothesis": "7.2%–7.8%"}
+{"source": "27.3%–29.8%", "hypothesis": "27.3%–29.8%"}
+{"source": "7.2%–7.8%", "hypothesis": "7.2%–7.8%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "13.3%–14.5%", "hypothesis": "13.3%–14.5%"}
+{"source": "2.2%–2.4%", "hypothesis": "2.2%–2.4%"}
+{"source": "13.3%–14.5%", "hypothesis": "13.3%–14.5%"}
+{"source": "2.2%–2.4%", "hypothesis": "2.2%–2.4%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Table 2", "hypothesis": "Table 2"}
+{"source": "48", "hypothesis": "48"}
+{"source": "eight", "hypothesis": "eight"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "184", "hypothesis": "184"}
+{"source": "19 years or older", "hypothesis": "≥19 years"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "94%", "hypothesis": "94%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "5.8%", "hypothesis": "5.8%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The heavy workload on health services due to the rapid increase in case numbers", "hypothesis": "The burden placed on reporting health departments with rapidly rising case counts"}
+{"source": "The rapid increase in case numbers", "hypothesis": "Rapidly rising case counts"}
+{"source": "As more data become available", "hypothesis": "As additional data become available"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "5.9%", "hypothesis": "5.9%"}
+{"source": "7.9%", "hypothesis": "7.9%"}
+{"source": "2018", "hypothesis": "2018"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To help reduce their risk of contracting COVID-19", "hypothesis": "to reduce the risk of acquiring COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Due to the estimated higher prevalence of these health conditions and a potentially increased risk of developing severe COVID-19 disease", "hypothesis": "Due to the estimated higher prevalence of these conditions among those in this early group of U.S. COVID-19 patients and the potentially higher risk for more severe disease from COVID-19 associated with the presence of underlying conditions"}
+{"source": "At least six limitations", "hypothesis": "At least six limitations"}
+{"source": "At least six", "hypothesis": "At least six"}
+{"source": "At least six limitations", "hypothesis": "At least six limitations"}
+{"source": "5.8%", "hypothesis": "5.8%"}
+{"source": "7,162", "hypothesis": "7,162"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "122,653", "hypothesis": "122,653"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Fever, persistent cough or shortness of breath", "hypothesis": "Fever, cough, or shortness of breath"}
+{"source": "Fever, persistent cough or shortness of breath", "hypothesis": "Fever, cough, or shortness of breath"}
+{"source": "Washing their hands regularly, cleaning and disinfecting frequently touched surfaces, and practicing social distancing", "hypothesis": "Washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill."}
+{"source": "Washing their hands regularly, cleaning and disinfecting frequently touched surfaces, and practicing social distancing", "hypothesis": "Through washing their hands; cleaning and disinfecting high-touch surfaces; and social distancing, including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill."}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Staying home, avoiding crowds, gatherings and travel, and avoiding contact with people who are sick", "hypothesis": "Including staying at home, avoiding crowds, gatherings, and travel, and avoiding contact with persons who are ill."}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Nothing specific is mentioned", "hypothesis": "None"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf", "hypothesis": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/community-mitigation-strategy.pdf"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Nothing", "hypothesis": "Nothing is specified in the sentence"}
+{"source": "Nothing", "hypothesis": "Nothing is specified in the sentence"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The practical implications", "hypothesis": "The implications for public health practice"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Outbreak of novel coronavirus (COVID-19)", "hypothesis": "A Novel Coronavirus (COVID-19)"}
+{"source": "Surveillance extension", "hypothesis": "Extending Surveillance"}
+{"source": "The Royal College of General Practitioners National Surveillance and Research Centre", "hypothesis": "The Royal College of General Practitioners Research and Surveillance Centre"}
+{"source": "Public Health England", "hypothesis": "Public Health England"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The surveillance of influenza and other infectious diseases", "hypothesis": "The surveillance of influenza and other infectious diseases"}
+{"source": "The surveillance of influenza and other infectious diseases", "hypothesis": "The surveillance of influenza and other infectious diseases"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "A broad national lockdown approach to test people who may have been exposed to COVID-19", "hypothesis": "To test people suspected of exposure to COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "COVID-19", "hypothesis": "COVID-19"}
+{"source": "COVID-19", "hypothesis": "COVID-19"}
+{"source": "The rate", "hypothesis": "The rate of COVID-19 spread"}
+{"source": "The pattern", "hypothesis": "The pattern of COVID-19 spread"}
+{"source": "The effectiveness", "hypothesis": "The effectiveness of the containment policy"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Regularly", "hypothesis": "Weekly"}
+{"source": "Pseudonymised data", "hypothesis": "Pseudonymized data"}
+{"source": "Recording in medical records of any person suspected of having been or being exposed to COVID-19 and four other unmentioned elements", "hypothesis": "Recording in medical records of anyone suspected to have or who has been exposed to COVID-19"}
+{"source": "Any person suspected of having been or being exposed to COVID-19", "hypothesis": "Anyone suspected to have COVID-19"}
+{"source": "Any person suspected of having been or being exposed to COVID-19", "hypothesis": "Anyone who has been exposed to COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "All age groups", "hypothesis": "All age groups"}
+{"source": "An additional blood sample", "hypothesis": "A blood sample taken from people"}
+{"source": "People who regularly attend their GP surgery", "hypothesis": "People who are attending their general practice"}
+{"source": "They attend their general practice for a scheduled blood test", "hypothesis": "For a scheduled blood test"}
+{"source": "They attend for a scheduled blood test", "hypothesis": "For a scheduled blood test"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "3", "hypothesis": "3"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "37", "hypothesis": "37"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "100 GP practices", "hypothesis": "100"}
+{"source": "The 2019-2020 season", "hypothesis": "The number of GPs participating in the 2019-2020 season"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Virological sampling practices at the national and regional levels", "hypothesis": "These virology sampling practices being nationally representative"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "During the 2018-2019 influenza season", "hypothesis": "During the 2018-2019 influenza season"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Through the NHS111 telephone referral system and PHE Health Protection Teams", "hypothesis": "Via the telephone help system NHS111 and the PHE health protection teams"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The protocol", "hypothesis": "The protocol"}
+{"source": "Increased efficiency in project management", "hypothesis": "Great efficiencies in project management"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The specific objectives of this study", "hypothesis": "The objectives of this study are as follows"}
+{"source": "As follows", "hypothesis": "The objectives are listed as follows"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes, they are monitored", "hypothesis": "not specified"}
+{"source": "Yes, they are monitored", "hypothesis": "not specified"}
+{"source": "To measure high symptomatic and asymptomatic exposure rates in the population", "hypothesis": "To estimate both symptomatic and asymptomatic exposure rates in the population"}
+{"source": "Through seroprevalence surveillance", "hypothesis": "Through seroprevalence monitoring"}
+{"source": "To determine baseline susceptibility to COVID-19 in the community and measure high symptomatic and asymptomatic exposure rates in the population", "hypothesis": "To estimate both symptomatic and asymptomatic exposure rates in the population"}
+{"source": "Testing the implementation of a system for collecting convalescent patient sera with antibody profiles", "hypothesis": "To pilot implementation of a scheme for collection of convalescent sera with antibody profiles among recovered cases of COVID-19"}
+{"source": "Collecting convalescent patient sera with antibody profiles among recovered COVID-19 cases", "hypothesis": "Collection of convalescent sera with antibody profiles among recovered cases of COVID-19"}
+{"source": "The local community", "hypothesis": "The community"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The following in detail", "hypothesis": "The following"}
+{"source": "The following in detail", "hypothesis": "The following"}
+{"source": "The following in detail", "hypothesis": "The following"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Important relevant data", "hypothesis": "Important relevant data"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The approach used in the current influenza surveillance system and the recent serological study", "hypothesis": "The approach used in the current influenza surveillance system and recent serology study"}
+{"source": "The current influenza surveillance system", "hypothesis": "The current influenza surveillance system"}
+{"source": "The recent serological study", "hypothesis": "The recent serology study"}
+{"source": "Five", "hypothesis": "Five"}
+{"source": "Primary care clinical surveillance", "hypothesis": "Primary care clinical surveillance"}
+{"source": "Virological surveillance", "hypothesis": "Virological surveillance"}
+{"source": "Population serological surveillance", "hypothesis": "Population serological surveillance"}
+{"source": "Convalescent patient sera collection in selected cases", "hypothesis": "Convalescent sera in cases"}
+{"source": "Data curation", "hypothesis": "Data curation"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Twice a year", "hypothesis": "Twice annually"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "There was no specific clinical code", "hypothesis": "None"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The ability to code a case of COVID-19, exposure to risk of infection, contact with anyone infected with COVID-19, a report that a person was tested for COVID-19, and that the disease was ruled out", "hypothesis": "The ability to code a case of COVID-19, exposure to risk of infection, contact with anyone infected with COVID-19, a report that a person had been tested for COVID-19, and that the disease had been excluded"}
+{"source": "The ability to code a case of COVID-19", "hypothesis": "The ability to code (Table 4) a case of COVID-19"}
+{"source": "Exposure to risk of infection", "hypothesis": "Exposure to risk of infection"}
+{"source": "Traveling to an area where risk may be potentially higher", "hypothesis": "Travel to an area where there may be a higher risk"}
+{"source": "Contact with anyone infected with COVID-19", "hypothesis": "Contact with anyone infected with COVID-19"}
+{"source": "A report that a person was tested for COVID-19", "hypothesis": "A report that a person had been tested for COVID-19"}
+{"source": "That the disease was ruled out", "hypothesis": "That the disease had been excluded"}
+{"source": "That the disease was ruled out (presumably a negative test)", "hypothesis": "Likely a negative test"}
+{"source": "That the disease was ruled out (presumably a negative test)", "hypothesis": "Likely that the disease had been excluded"}
+{"source": "The EMIS Web implementation in detail", "hypothesis": "The EMIS web implementation"}
+{"source": "The EMIS web implementation is not explicitly defined in the sentence, but it is described in detail in Figures 2-44", "hypothesis": "The EMIS web implementation is not defined in the sentence, however, it can be inferred that it is something shown in Figures 2-44"}
+{"source": "The date of appearance of first symptoms", "hypothesis": "Date of onset of symptoms"}
+{"source": "The date of appearance of first symptoms", "hypothesis": "Date of onset of symptoms"}
+{"source": "One of the following serious illnesses", "hypothesis": "Any of the following"}
+{"source": "One of the following serious illnesses", "hypothesis": "Any of the following"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "oxygen saturation, and respiratory rate", "hypothesis": "oxygen saturation and respiratory rate"}
+{"source": "Yes", "hypothesis": "Yes or No"}
+{"source": "Y/N", "hypothesis": "Y/N"}
+{"source": "Countries visited in the last 14 days were not specified", "hypothesis": "Countries visited in last 14 days"}
+{"source": "Yes", "hypothesis": "Yes or No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Ontologically as “certain,” “probable,” “possible,” “discarded,” and “new”", "hypothesis": "Ontologically into “definite”, “probable”, “possible”, and “not a case”"}
+{"source": "Our standardized approach to grouping codes", "hypothesis": "Our standard approach to grouping codes"}
+{"source": "Table 5", "hypothesis": "Table 5"}
+{"source": "Disease domains", "hypothesis": "Across disease areas"}
+{"source": "Not mentioned", "hypothesis": "The RCGP RSC definition for ILI is shown in Multimedia Appendix 2"}
+{"source": "Multimedia Appendix 2", "hypothesis": "Multimedia Appendix 2"}
+{"source": "An observatory to present data at a national level", "hypothesis": "an observatory"}
+{"source": "Data", "hypothesis": "data"}
+{"source": "A dashboard to provide feedback to local practices", "hypothesis": "a dashboard for feedback"}
+{"source": "The quality of their data and the collection of virological and serological samples", "hypothesis": "their data quality and collection of virology and serology samples"}
+{"source": "The collection of virological and serological samples", "hypothesis": "the collection of virology and serology samples"}
+{"source": "The detailed coding described in Table 4", "hypothesis": "Coding described in Table 4"}
+{"source": "Table 4", "hypothesis": "Table 4"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Potential cases", "hypothesis": "Possible cases"}
+{"source": "Not available in the given text, however 'Under review' means potential cases", "hypothesis": "investigating"}
+{"source": "Discarded", "hypothesis": "'Not a case'"}
+{"source": "Not provided in the sentence, however 'Discarded' might be referred to as 'Not a case'", "hypothesis": "'Not a case'"}
+{"source": "Online data", "hypothesis": "Online data"}
+{"source": "The total number of patients", "hypothesis": "The overall number of patients"}
+{"source": "The rate of confirmed cases", "hypothesis": "The rate per 10,000 patients of cases confirmed"}
+{"source": "The rate of cases under investigation", "hypothesis": "The rate per 10,000 patients of cases under investigation"}
+{"source": "When the data indicate the virus is excluded", "hypothesis": "Where the virus is excluded"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Instead of suddenly stopping it with the end of the flu season", "hypothesis": "Rather than discontinuing as seasonal influenza declines"}
+{"source": "ILI, acute bronchitis/bronchiolitis", "hypothesis": "ILI, acute bronchitis/bronchiolitis"}
+{"source": "ILI and acute bronchitis/bronchiolitis", "hypothesis": "ILI, acute bronchitis/bronchiolitis"}
+{"source": "Any person presenting with acute symptoms of LRTI", "hypothesis": "Any people showing acute symptoms of LRTI"}
+{"source": "Within 7 days of the symptoms manifesting", "hypothesis": "If the onset of symptoms is within 7 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To collect a total national sample of 200-300 swabs per week", "hypothesis": "To achieve a total national sample of 200-300 swabs per week"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Maybe"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "<5 years, 5-17 years, 18-64 years, and 65 years and older", "hypothesis": "< 5 years, 5-17 years, 18-64 years, and 65 years and older"}
+{"source": "<5 years, 5-17 years, 18-64 years, and 65 years and older", "hypothesis": "Across the age groups"}
+{"source": "<5 years, 5-17 years, 18-64 years, and 65 years and older", "hypothesis": "< 5 years, 5-17 years, 18-64 years, and 65 years and older"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Makes an appointment by phone", "hypothesis": "Phoning for an appointment"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Not come to the office", "hypothesis": "Not come to the practice"}
+{"source": "The PHE flowchart", "hypothesis": "The PHE flow sheet"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Additional training materials", "hypothesis": "Training material to support this coding"}
+{"source": "This coding", "hypothesis": "This coding"}
+{"source": "Multimedia Appendix 4", "hypothesis": "Multimedia Appendix 4"}
+{"source": "Useful fact sheets", "hypothesis": "Prompt cards for:"}
+{"source": "Useful fact sheets for:", "hypothesis": "Prompt cards for:"}
+{"source": "There is no mention of prompt cards", "hypothesis": "Prompt cards for:"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "For regular routine blood testing", "hypothesis": "Because they are coming into the practice for a routine blood test"}
+{"source": "For regular routine blood testing", "hypothesis": "For virology surveillance"}
+{"source": "Patients coming to the practice for regular routine blood testing", "hypothesis": "Patients coming into the practice for a routine blood test"}
+{"source": "When they come into the practice for a routine blood test", "hypothesis": "When they come into the practice for a routine blood test"}
+{"source": "The practice", "hypothesis": "At the practice"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The number of complete blood count (CBC) results and overall rates in adults and children and patients", "hypothesis": "The number of full blood count (FBC) results and overall rates in adults and children"}
+{"source": "The number of complete blood count (CBC) results", "hypothesis": "The number of full blood count (FBC) results"}
+{"source": "The overall rates in adults", "hypothesis": "The overall rates"}
+{"source": "The overall rates in children", "hypothesis": "The overall rates"}
+{"source": "The number of complete blood count (CBC) results and overall rates in adults and children and patients", "hypothesis": "The number of full blood count (FBC) results and overall rates in adults and children"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Highest", "hypothesis": "Not specified"}
+{"source": "Lowest", "hypothesis": "Not specified"}
+{"source": "Lowest", "hypothesis": "Not specified"}
+{"source": "Highest", "hypothesis": "Not specified"}
+{"source": "1,000", "hypothesis": "1000"}
+{"source": "all age groups", "hypothesis": "All ages"}
+{"source": "age-specific attendance rates", "hypothesis": "The rates are varying"}
+{"source": "Samples will be stratified", "hypothesis": "The sample will be stratified"}
+{"source": "200", "hypothesis": "200"}
+{"source": "100", "hypothesis": "100"}
+{"source": "<5 years, 5-17 years, 18-64 years, and 65 years or older", "hypothesis": "&lt; 5 years, 5-17 years, 18-64 years, and 65 years or older"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To record recent travel, COVID-19 exposure and symptoms", "hypothesis": "Practices"}
+{"source": "Recent travel, COVID-19 exposure and symptoms", "hypothesis": "Recent travel and exposure to COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Potentially", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To ensure their use in future studies", "hypothesis": "So that it can be used for future studies"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Findability, Accessibility, Interoperability, Durability and Reusability", "hypothesis": "The Findable, Accessible, Interoperable, Reusable principles"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The average number of secondary cases generated by each case", "hypothesis": "The average number of secondary cases each case generates"}
+{"source": "The average number of secondary cases generated by each case", "hypothesis": "The average number of secondary cases each case generates"}
+{"source": "By targeting the reproduction number (R) and seeking to reduce R below 1", "hypothesis": "By aiming to reduce the R to below 1"}
+{"source": "To achieve low levels of cases or avoid eliminating person-to-person transmission", "hypothesis": "To eliminate human-to-human transmission or reduce case numbers to low levels"}
+{"source": "By targeting the reproduction number (R) and seeking to reduce R below 1", "hypothesis": "By reducing the R to below 1"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "As social distancing measures are relaxed"}
+{"source": "The duration between the initial infection and the moment when a person becomes contagious to others, as well as the average period of contagiousness", "hypothesis": "The length of time from infection to when a person is infectious to others and the mean duration of infectiousness"}
+{"source": "The duration between the initial infection and the moment when a person becomes contagious to others", "hypothesis": "Not specified"}
+{"source": "The average period of contagiousness", "hypothesis": "Not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Potentially", "hypothesis": "Possibly"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "A network of sentinel GPs and nurse practitioners", "hypothesis": "A network of sentinel GPs and nurse practitioners"}
+{"source": "Anonymous information on SG and other diseases", "hypothesis": "Deidentified information on ILIs and other conditions"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The ABC methodology", "hypothesis": "The ABC methodology"}
+{"source": "The rate of I (number of infectious cases) and R (number of recovered cases)", "hypothesis": "Counts of I (number of infectious cases) and R (number of recovered cases)"}
+{"source": "A few dozen", "hypothesis": "Tens"}
+{"source": "A few dozen", "hypothesis": "Tens"}
+{"source": "The case fatality ratio is not explicitly stated in the sentence", "hypothesis": "Not specified"}
+{"source": "The Kaplan-Meier method is a method used to estimate the case fatality rate", "hypothesis": "A method to estimate the case fatality ratio"}
+{"source": "Death and recovery", "hypothesis": "Death and recovery"}
+{"source": "It will be estimated using the two-outcome Kaplan-Meier method", "hypothesis": "Using the Kaplan-Meier method"}
+{"source": "The above methodology is not explicitly stated in the sentence", "hypothesis": "Not specified"}
+{"source": "Death and recovery", "hypothesis": "Death and recovery"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "A Health Protection in Regulation 3 (Control of Patient Data)", "hypothesis": "Health Protection"}
+{"source": "Regulation 3 (Control of Patient Data) of the Health Service Regulations 2002", "hypothesis": "Regulation 3 of The Health Service (Control of Patient Information) Regulations 2002"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No, across all EHR systems", "hypothesis": "Yes"}
+{"source": "Information on the coding of clinical descriptors and any history of recent foreign travel", "hypothesis": "Information on coding of clinical descriptors and any recent travel history"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "to monitor community spread of a specific unexpected COVID-19 infection", "hypothesis": "To monitor community spread of an unexpected infection of COVID-19"}
+{"source": "to monitor community spread of a specific unexpected COVID-19 infection", "hypothesis": "To monitor community spread of an unexpected infection of COVID-19"}
+{"source": "to monitor community spread of a specific unexpected COVID-19 infection", "hypothesis": "To monitor community spread of an unexpected infection of COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The virus may eventually spread more widely among the population", "hypothesis": "There may come a point at which the virus spreads more widely into the population"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "When we reach this critical point", "hypothesis": "When we reach this tipping point"}
+{"source": "When infection rates begin to fall", "hypothesis": "When infection rates start to remit"}
+{"source": "The epidemiology of COVID-19 remains novel", "hypothesis": "The epidemiology of COVID-19"}
+{"source": "Registration-based", "hypothesis": "Registration-based"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Office security", "hypothesis": "Safety of practices"}
+{"source": "Office security", "hypothesis": "Safety of practices"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "The number of specific data points", "hypothesis": "The number of data points"}
+{"source": "serological and virological data", "hypothesis": "Serology and virology data"}
+{"source": "100", "hypothesis": "100"}
+{"source": "a small and significant portion", "hypothesis": "A small group"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "For now", "hypothesis": "Currently"}
+{"source": "Weekly", "hypothesis": "Weekly"}
+{"source": "The low overall rate of blood sampling in children", "hypothesis": "The overall reduced rate of blood tests in children"}
+{"source": "The low overall rate of blood sampling in children", "hypothesis": "The overall reduced rate of blood tests in children"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The week the codes were created", "hypothesis": "The week the codes were created"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Due to COVID-19", "hypothesis": "COVID-19 concerns"}
+{"source": "COVID-19", "hypothesis": "COVID-19 concerns"}
+{"source": "The COVID-19 concerns that led to the suspension of the season are not specified", "hypothesis": "COVID-19 concerns"}
+{"source": "Wednesday", "hypothesis": "On Wednesday"}
+{"source": "Due to heightened concerns over COVID-19", "hypothesis": "Due to concerns regarding COVID-19"}
+{"source": "Wednesday", "hypothesis": "Wednesday"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Not revealed", "hypothesis": "The player in question (identity not released)"}
+{"source": "The identity of the player in question", "hypothesis": "The announcement made by the NBA regarding the player in question"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Oklahoma City", "hypothesis": "Oklahoma City"}
+{"source": "The Oklahoma City Thunder", "hypothesis": "The Oklahoma City Thunder"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The Sacramento Kings and the New Orleans Pelicans", "hypothesis": "The Sacramento Kings and the New Orleans Pelicans"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The National Collegiate Athletic Association", "hypothesis": "The National Collegiate Athletic Association"}
+{"source": "College basketball", "hypothesis": "College basketball"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "March Madness", "hypothesis": "March Madness"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The number of confirmed cases of COVID-19 in the United States", "hypothesis": "The number of confirmed cases of COVID-19 in the United States"}
+{"source": "At least 1,279", "hypothesis": "At least 1,279"}
+{"source": "CNBC", "hypothesis": "CNBC"}
+{"source": "118,381", "hypothesis": "118,381"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Donald Trump", "hypothesis": "Donald Trump"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Two days after the World Health Organization declared the COVID-19 outbreak a pandemic", "hypothesis": "Two days after the World Health Organization declared the outbreak to be a pandemic"}
+{"source": "A pandemic", "hypothesis": "A pandemic"}
+{"source": "The COVID-19 outbreak", "hypothesis": "The outbreak"}
+{"source": "Two days before the decision was announced", "hypothesis": "Two days before the move came"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The outbreak of COVID-19 in the United States constitutes a great national emergency", "hypothesis": "The COVID-19 outbreak in the United States constitutes a national emergency"}
+{"source": "March 1", "hypothesis": "March 1"}
+{"source": "Nearly two weeks after March 1", "hypothesis": "Almost two weeks after March 1"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "January 31", "hypothesis": "January 31"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Politico", "hypothesis": "Politico"}
+{"source": "Disappointed", "hypothesis": "Disappointed"}
+{"source": "FEMA plays an important role in coordinating the response to the larger crisis", "hypothesis": "an important role"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The decision", "hypothesis": "The decision"}
+{"source": "The provisions of the National Emergencies Act", "hypothesis": "provisions of the National Emergencies Act"}
+{"source": "Other authorities", "hypothesis": "other governing authorities"}
+{"source": "Waiving interest on federal student loans and increasing large purchases of oil for the U.S. Strategic Petroleum Reserve", "hypothesis": "Waiving the interest it collects on federal student loans and increasing U.S. strategic oil reserve oil purchases"}
+{"source": "In response to COVID-19", "hypothesis": "In response to COVID-19"}
+{"source": "In response to COVID-19", "hypothesis": "In response to COVID-19"}
+{"source": "The 2019-20 global coronavirus pandemic had an impact on education", "hypothesis": "The impact of the 2019–20 coronavirus pandemic on education"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Learning disruption, poor nutrition, childcare challenges and economic costs for families unable to work", "hypothesis": "interrupted learning, compromised nutrition, childcare problems, and consequent economic cost to families who could not work"}
+{"source": "The use of distance learning programmes and open education applications and platforms through which schools, teachers and students can interact remotely and limit the disruption to education", "hypothesis": "the use of distance learning programmes and open educational applications and platforms"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Non-pharmaceutical interventions and prevention measures such as social distancing and self-isolation", "hypothesis": "Efforts to stem the spread of COVID-19 through non-pharmaceutical interventions and preventive measures such as social-distancing and self-isolation"}
+{"source": "Varying degrees of effectiveness", "hypothesis": "The effectiveness of these efforts is not specified in the sentence"}
+{"source": "Varying degrees of effectiveness", "hypothesis": "The effectiveness of school closings has varied"}
+{"source": "No", "hypothesis": "No"}
+{"source": "With varying degrees of effectiveness", "hypothesis": "The effectiveness of these school closings has varied with varying levels of effectiveness"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "These interventions", "hypothesis": "Such interventions"}
+{"source": "Because they implemented such interventions earlier", "hypothesis": "Because they implemented such interventions earlier"}
+{"source": "Not specified", "hypothesis": "The text does not specify"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Implementing interventions earlier resulted in longer delays before reaching the overall mortality peak", "hypothesis": "It caused greater delays"}
+{"source": "Not specified", "hypothesis": "The text does not specify"}
+{"source": "Four weeks", "hypothesis": "4 weeks"}
+{"source": "43", "hypothesis": "43"}
+{"source": "The response to the Spanish flu", "hypothesis": "the response to the Spanish Flu"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "29% to 37%", "hypothesis": "29% to 37%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The 1918 influenza pandemic, the 1957 influenza pandemic, and the 1968 influenza pandemic", "hypothesis": "The 1918 flu pandemic, the influenza pandemic of 1957, and the 1968 flu pandemic"}
+{"source": "The 1918 influenza pandemic", "hypothesis": "The 1918 flu pandemic"}
+{"source": "The 1957 influenza pandemic", "hypothesis": "The influenza pandemic of 1957"}
+{"source": "The 1968 influenza pandemic", "hypothesis": "The 1968 flu pandemic"}
+{"source": "They outlined the economic impact", "hypothesis": "It is not specified"}
+{"source": "They outlined the consequences for the workforce", "hypothesis": "It is not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "It is not specified"}
+{"source": "Yes", "hypothesis": "It is not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The dynamics of influenza spread", "hypothesis": "The dynamics of the spread of influenza"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Both", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "There is minimal to moderate community transmission in cases", "hypothesis": "When there is minimal to moderate community transmission"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "January 26", "hypothesis": "26 January"}
+{"source": "Measures to contain the COVID-19 outbreak, including extending the Spring Festival holiday", "hypothesis": "extending the Spring Festival holiday"}
+{"source": "To better curb the epidemic", "hypothesis": "to contain the outbreak"}
+{"source": "March 3", "hypothesis": "3 March"}
+{"source": "March 3", "hypothesis": "3 March"}
+{"source": "the first global figures on school closures", "hypothesis": "the first global numbers"}
+{"source": "the first global figures on the students directly affected", "hypothesis": "the first global numbers"}
+{"source": "One", "hypothesis": "One"}
+{"source": "three", "hypothesis": "three"}
+{"source": "Italy", "hypothesis": "Italy and 21 other countries"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "233 million", "hypothesis": "233 million"}
+{"source": "16.5 million", "hypothesis": "16.5 million"}
+{"source": "14.5 million", "hypothesis": "14.5 million"}
+{"source": "March 13", "hypothesis": "13 March"}
+{"source": "39", "hypothesis": "39"}
+{"source": "22", "hypothesis": "22"}
+{"source": "March 16", "hypothesis": "16 March"}
+{"source": "49", "hypothesis": "49"}
+{"source": "UNESCO", "hypothesis": "UNESCO"}
+{"source": "24", "hypothesis": "24"}
+{"source": "50%", "hypothesis": "50%"}
+{"source": "102", "hypothesis": "102"}
+{"source": "11", "hypothesis": "11"}
+{"source": "850 million", "hypothesis": "850 million"}
+{"source": "More than 70%", "hypothesis": "Over 70%"}
+{"source": "124", "hypothesis": "124"}
+{"source": "More than 70% of students worldwide were affected by sudden closures", "hypothesis": "They were impacted by closures"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "26 March", "hypothesis": "26 March"}
+{"source": "All New Zealand schools and universities", "hypothesis": "All New Zealand schools and universities"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "A week", "hypothesis": "One week"}
+{"source": "Regular online teaching", "hypothesis": "Online teaching"}
+{"source": "90 percent", "hypothesis": "90 percent"}
+{"source": "March 27", "hypothesis": "By 27 March"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Until April 6", "hypothesis": "Until April 6"}
+{"source": "Until April 6", "hypothesis": "Until April 6"}
+{"source": "April", "hypothesis": "April"}
+{"source": "Ten", "hypothesis": "10"}
+{"source": "473,933,356", "hypothesis": "473,933,356"}
+{"source": "77,938,904", "hypothesis": "77,938,904"}
+{"source": "473,933,356", "hypothesis": "473,933,356"}
+{"source": "77,938,904", "hypothesis": "77,938,904"}
+{"source": "The total number of students enrolled", "hypothesis": "Total number of learners enrolled"}
+{"source": "The total number of students enrolled", "hypothesis": "Total number of learners enrolled"}
+{"source": "The total number of students enrolled", "hypothesis": "Total number of learners enrolled"}
+{"source": "The total number of students enrolled", "hypothesis": "Total number of learners enrolled"}
+{"source": "Pre-primary, primary, lower secondary and upper secondary education", "hypothesis": "Pre-primary, primary, lower-secondary, and upper-secondary levels of education"}
+{"source": "Tertiary education", "hypothesis": "Tertiary education levels"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Both", "hypothesis": "Both"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "90%", "hypothesis": "90%"}
+{"source": "Some are", "hypothesis": "No"}
+{"source": "Economic, health, and social costs", "hypothesis": "Social and economic costs"}
+{"source": "Social costs", "hypothesis": "Social costs"}
+{"source": "Economic costs", "hypothesis": "Economic costs"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Through interrupted learning", "hypothesis": "Interrupted learning"}
+{"source": "Poor nutrition", "hypothesis": "Compromised nutrition"}
+{"source": "Childcare problems", "hypothesis": "Childcare problems"}
+{"source": "Resulting in significant economic costs", "hypothesis": "Consequent economic cost"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To care for their children", "hypothesis": "To take care of their children"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "It is not stated why", "hypothesis": "The sentence does not explicitly state why, but it implies that it is not the case."}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "At least 4", "hypothesis": "At least 4"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "221", "hypothesis": "221"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "This can lead to risky behaviours, including increased peer pressure and substance abuse, posing additional dangers", "hypothesis": "This can lead to risky behaviours, including increased influence of peer pressure and substance abuse"}
+{"source": "Increased peer pressure and substance abuse", "hypothesis": "Risky behaviours, including increased influence of peer pressure and substance abuse"}
+{"source": "It is not specified", "hypothesis": "Increased influence"}
+{"source": "It is not specified", "hypothesis": "Abuse of substances"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes, they are free or discounted"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Nutrition is at risk", "hypothesis": "It is compromised"}
+{"source": "At least 520,000 students and their families", "hypothesis": "At least 520,000 students and their families"}
+{"source": "School meal programs", "hypothesis": "School lunch programmes"}
+{"source": "Food stamps", "hypothesis": "Food stamps"}
+{"source": "More than 720,000 students", "hypothesis": "720,000"}
+{"source": "Staff at schools disproportionately affected by poverty", "hypothesis": "Staff in schools disproportionately affected by poverty"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Negatively", "hypothesis": "Negatively"}
+{"source": "essential life skills", "hypothesis": "Essential learning"}
+{"source": "are deprived of opportunities for development and fulfillment", "hypothesis": "They are deprived opportunities for growth and development"}
+{"source": "are deprived of opportunities for development and fulfillment", "hypothesis": "They are deprived opportunities for growth and development"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Informal or non-formal education", "hypothesis": "Informal education or non-formal education"}
+{"source": "Public schools, colleges, universities, and training institutes", "hypothesis": "Schools, colleges, universities and training institutions"}
+{"source": "Formal education", "hypothesis": "Formal education"}
+{"source": "Formal education", "hypothesis": "Formal education"}
+{"source": "Public schools, colleges, universities, and training institutes", "hypothesis": "Schools, colleges, universities and training institutions"}
+{"source": "Public schools, colleges, universities, and training institutes", "hypothesis": "Educational institutions"}
+{"source": "Formal education", "hypothesis": "Formal education"}
+{"source": "The “education system” with a hierarchical structure and organized chronologically, ranging from primary school to university and including, in addition to formal studies, various specialized programs and institutions for full-time vocational and technical training.", "hypothesis": "The hierarchically structured, chronologically graded ‘education system’, running from primary school through the university and including, in addition to general academic studies, a variety of specialised programmes and institutions for full-time technical and professional training"}
+{"source": "The closure of formal education systems", "hypothesis": "The closure of formal education systems"}
+{"source": "The closure of formal education systems", "hypothesis": "The closure of formal education systems"}
+{"source": "Figures on students affected by COVID-19 corresponding to the number of learners enrolled in pre-primary, primary, lower secondary and upper secondary education [ISCED levels 0–3], as well as in tertiary education [ISCED levels 5–8]", "hypothesis": "Figures on students impacted by COVID-19 corresponding to the number of learners enrolled at pre-primary, primary, lower-secondary, and upper-secondary levels of education [ISCED levels 0 to 3], as well as at tertiary education levels [ISCED levels 5 to 8]"}
+{"source": "ISCED levels 0–3 and ISCED levels 5–8", "hypothesis": "The number of learners enrolled at pre-primary, primary, lower-secondary, and upper-secondary levels of education [ISCED levels 0 to 3], as well as at tertiary education levels [ISCED levels 5 to 8]"}
+{"source": "Pre-primary, primary, lower secondary and upper secondary education", "hypothesis": "Pre-primary, primary, lower-secondary, and upper-secondary levels of education"}
+{"source": "Tertiary education", "hypothesis": "Tertiary education levels"}
+{"source": "Pre-primary, primary, lower-secondary, and upper-secondary", "hypothesis": "Pre-primary, primary, lower-secondary, and upper-secondary"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "They have varied", "hypothesis": "Varied"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "California Governor Gavin Newsom's position is that child care facilities and daycares need to be fully operational", "hypothesis": "California Governor Gavin Newsom's position is that child care facilities and daycare centers need to operate to absorb the impact of school closures."}
+{"source": "To cushion the impact of school closures", "hypothesis": "To absorb the impact of school closures."}
+{"source": "To cushion the impact of school closures", "hypothesis": "To absorb the impact of school closures."}
+{"source": "To cushion the impact of school closures", "hypothesis": "To absorb the impact of school closures."}
+{"source": "They have an impact that needs to be cushioned by fully operational child care facilities and daycares", "hypothesis": "School closures have an impact that child care facilities and daycare centers need to absorb."}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Educational tools", "hypothesis": "To emulate the lessons children would have received in their early learning programmes"}
+{"source": "Lessons they would have received in their preschool programs", "hypothesis": "Lessons they would have received in their early learning programmes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Although it is not stated why daycare facilities were excluded from school closures in Japan", "hypothesis": "However, the reason is not specified"}
+{"source": "It is not stated when Prime Minister Shinzo Abe closed all schools in Japan", "hypothesis": "However, the date when is not specified, only the date until which is specified"}
+{"source": "April 8", "hypothesis": "April 8"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Primary or elementary education", "hypothesis": "Primary or elementary education"}
+{"source": "Primary education", "hypothesis": "Primary education"}
+{"source": "Elementary education", "hypothesis": "Elementary education"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "more than 200,000 students", "hypothesis": "More than 200,000"}
+{"source": "Tertiary education and higher education are the same thing", "hypothesis": "Tertiary education and higher education are the same thing"}
+{"source": "The non-compulsory levels of education that follow the completion of secondary or high school", "hypothesis": "The non-compulsory educational levels that follow completion of secondary school or high school"}
+{"source": "No, tertiary education is non-compulsory, but high school is not explicitly stated as compulsory or non-compulsory in this context, however secondary school is implied as compulsory since tertiary education is non-compulsory and follows the completion of secondary school", "hypothesis": "No, tertiary education is non-compulsory"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "A bachelor's degree and a specialization", "hypothesis": "A bachelor's degree"}
+{"source": "college students", "hypothesis": "college students"}
+{"source": "significant implications", "hypothesis": "widespread"}
+{"source": "significant implications", "hypothesis": "widespread"}
+{"source": "significant implications", "hypothesis": "widespread"}
+{"source": "significant implications", "hypothesis": "widespread"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "$1.58 billion", "hypothesis": "$1.58 billion USD"}
+{"source": "$60 million", "hypothesis": "$60 million"}
+{"source": "The closure of colleges and universities has a domino effect on the national economy", "hypothesis": "A domino effect"}
+{"source": "A significant portion", "hypothesis": "A significant share"}
+{"source": "A significant portion", "hypothesis": "A significant share"}
+{"source": "A significant portion", "hypothesis": "A significant share"}
+{"source": "A significant portion", "hypothesis": "A significant share"}
+{"source": "A significant portion", "hypothesis": "A significant share"}
+{"source": "Local hotels, restaurants, cafes, stores, car rental agencies, and other businesses make a significant portion of their annual revenue during graduation week and academic reunions", "hypothesis": "They obtain a significant share of annual revenue from these events"}
+{"source": "No", "hypothesis": "Unknown"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "They will be particularly hard hit", "hypothesis": "They will be especially impacted"}
+{"source": "They will suffer significant economic damage and struggle to provide labor for local businesses", "hypothesis": "They will suffer a lot of economic damage"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Tompkins County", "hypothesis": "Tompkins county"}
+{"source": "In Ithaca, New York", "hypothesis": "In Ithaca, New York"}
+{"source": "to stay home and move to virtual learning", "hypothesis": "to keep students home"}
+{"source": "virtual learning", "hypothesis": "virtual instruction"}
+{"source": "immediate, strong, coordinated federal action", "hypothesis": "immediate and forceful federal action"}
+{"source": "terrible economic consequences", "hypothesis": "a horrific economic impact"}
+{"source": "10 important recommendations", "hypothesis": "10 recommendations"}
+{"source": "10", "hypothesis": "10"}
+{"source": "These", "hypothesis": "This"}
+{"source": "These", "hypothesis": "This"}
+{"source": "These", "hypothesis": "This"}
+{"source": "These", "hypothesis": "This"}
+{"source": "These", "hypothesis": "This"}
+{"source": "When uploading data or educational resources to web spaces, as well as when securely sharing them with other organizations or individuals", "hypothesis": "When uploading data or educational resources to web spaces, as well as when sharing them with other organisations or individuals"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Other organizations or individuals", "hypothesis": "Other organisations or individuals"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Data security", "hypothesis": "Data security"}
+{"source": "Assess data security when uploading data or educational resources to web spaces, as well as when securely sharing them with other organizations or individuals", "hypothesis": "By assessing data security when uploading data or educational resources to web spaces, as well as when sharing them with other organisations or individuals"}
+{"source": "Assess data security when uploading data or educational resources to web spaces, as well as when securely sharing them with other organizations or individuals", "hypothesis": "By assessing data security when uploading data or educational resources to web spaces, as well as when sharing them with other organisations or individuals"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "to connect schools, parents, teachers, students and the community", "hypothesis": "To connect schools, parents, teachers, and students with each other"}
+{"source": "to connect schools, parents, teachers, students and the community", "hypothesis": "To connect schools, parents, teachers, and students with each other"}
+{"source": "to connect schools, parents, teachers, students and the community", "hypothesis": "To connect schools, parents, teachers, and students with each other"}
+{"source": "to connect schools, parents, teachers, students and the community", "hypothesis": "To connect schools, parents, teachers, and students with each other"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Hold discussions with stakeholders to consider the possible duration of school closures and decide whether the distance learning programme should focus on teaching new current knowledge or rather reinforce knowledge already acquired in previous lessons.", "hypothesis": "The study schedule of the distance learning programmes involves discussions with stakeholders to decide on its focus"}
+{"source": "Stakeholders", "hypothesis": "Stakeholders"}
+{"source": "The possible duration of school closures", "hypothesis": "The possible duration of school closures"}
+{"source": "No, it may also reinforce knowledge already acquired", "hypothesis": "It is an option"}
+{"source": "Yes", "hypothesis": "It is an option"}
+{"source": "the situation of the affected area, the level of education, the needs of schoolchildren and the availability of parents", "hypothesis": "The situation of the affected zones, level of studies, needs of students, and availability of parents"}
+{"source": "the situation of the affected area", "hypothesis": "The situation of the affected zones"}
+{"source": "the level of education", "hypothesis": "The level of studies"}
+{"source": "the needs of schoolchildren", "hypothesis": "The needs of students"}
+{"source": "the availability of parents", "hypothesis": "The availability of parents"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Short training or orientation sessions and regular monitoring and support", "hypothesis": "Brief training or orientation sessions"}
+{"source": "Short training or orientation sessions and regular monitoring and support", "hypothesis": "Brief training or orientation sessions"}
+{"source": "Short training", "hypothesis": "Brief training"}
+{"source": "Short training", "hypothesis": "Brief training"}
+{"source": "Short orientation sessions", "hypothesis": "Brief orientation"}
+{"source": "Short orientation sessions", "hypothesis": "Brief orientation"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "basic hardware requirements, such as internet data usage solutions", "hypothesis": "solutions to the use of internet data"}
+{"source": "No, they need to if they have to", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The rules for distance online learning", "hypothesis": "The rules with parents and students on distance learning"}
+{"source": "Not specified", "hypothesis": "Not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Design formative questions, assessments or exercises", "hypothesis": "Design formative questions to monitor closely students’ learning process"}
+{"source": "Design formative questions, assessments or exercises", "hypothesis": "Design formative tests to monitor closely students’ learning process"}
+{"source": "Design formative questions, assessments or exercises", "hypothesis": "Design formative exercises to monitor closely students’ learning process"}
+{"source": "students’ self-regulation skills", "hypothesis": "students’ self-regulation skills"}
+{"source": "consistent with students’ level of self-regulation and metacognitive skills", "hypothesis": "coherent according to the level of the students’ self-regulation and metacognitive abilities"}
+{"source": "students’ level of self-regulation and metacognitive skills", "hypothesis": "the level of the students’ self-regulation and metacognitive abilities"}
+{"source": "because they are live-streamed and interactive courses", "hypothesis": "because it is based on the level of the students’ self-regulation and metacognitive abilities"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "GAVIN NEWSOM", "hypothesis": "GAVIN NEWSOM"}
+{"source": "The authority vested in him by the Constitution and laws", "hypothesis": "the authority vested in him by the State Constitution and statutes of the State of California"}
+{"source": "The authority vested in him by Government Code Sections 8567, 8627, and 8665", "hypothesis": "the authority vested in him by Government Code sections 8567, 8627, and 8665"}
+{"source": "GAVIN NEWSOM, Governor of the State of California", "hypothesis": "GAVIN NEWSOM, Governor of the State of California"}
+{"source": "Immediately", "hypothesis": "immediately"}
+{"source": "Every employee must attend the weekend meeting.", "hypothesis": "That"}
+{"source": "It is not specified who ordered it.", "hypothesis": "It is not specified"}
+{"source": "It is not specified when it is ordered.", "hypothesis": "It is not specified"}
+{"source": "It is not specified why it is ordered.", "hypothesis": "It is not specified"}
+{"source": "It is not specified under what circumstances it is ordered.", "hypothesis": "It is not specified"}
+{"source": "To protect public health and safety, and to ensure that the health care delivery system is able to serve all people, and prioritize those most at risk and vulnerable", "hypothesis": "To preserve the public health and safety, and to ensure the healthcare delivery system is capable of serving all, and prioritizing those at the highest risk and vulnerability"}
+{"source": "All residents", "hypothesis": "All residents"}
+{"source": "The speaker", "hypothesis": "I"}
+{"source": "To protect public health and safety, and to ensure that the health care delivery system is able to serve all people, and prioritize those most at risk and vulnerable", "hypothesis": "To preserve the public health and safety, and to ensure the healthcare delivery system is capable of serving all, and prioritizing those at the highest risk and vulnerability"}
+{"source": "Current statewide", "hypothesis": "The current statewide status of COVID-19"}
+{"source": "This guidance", "hypothesis": "Those directives"}
+{"source": "March 19, 2020", "hypothesis": "March 19, 2020"}
+{"source": "https://covid19.ca.gov/", "hypothesis": "https://covid19.ca.gov/"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To protect the public health", "hypothesis": "To protect public health"}
+{"source": "The State Health Officer and Director of the California Department of Public Health", "hypothesis": "The State Public Health Officer and Director of the California Department of Public Health"}
+{"source": "To protect the public health", "hypothesis": "To protect public health"}
+{"source": "All persons living in the State of California", "hypothesis": "All individuals living in the State of California"}
+{"source": "Their homes or primary places of residence", "hypothesis": "At their home or place of residence"}
+{"source": "Maintain the continued operation of federal critical infrastructure sectors", "hypothesis": "Maintain continuity of operations of the federal critical infrastructure sectors"}
+{"source": "Federal critical infrastructure sectors", "hypothesis": "The federal critical infrastructure sectors"}
+{"source": "No", "hypothesis": "No, the subject is 'I', not 'you'"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "16", "hypothesis": "16"}
+{"source": "Physical or virtual", "hypothesis": "Physical or virtual"}
+{"source": "It would endanger national security, economic security, public health or safety, or any combination thereof", "hypothesis": "A debilitating effect"}
+{"source": "It would endanger national security", "hypothesis": "A debilitating effect"}
+{"source": "It would endanger economic security", "hypothesis": "A debilitating effect"}
+{"source": "It would endanger public health or safety", "hypothesis": "A debilitating effect"}
+{"source": "It would endanger any combination of national security, economic security, and public health or safety", "hypothesis": "A debilitating effect"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To protect the public health of Californians and tourists", "hypothesis": "To protect the public health of Californians"}
+{"source": "To protect the public health of Californians and tourists", "hypothesis": "To protect the public health of Californians"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "By ensuring efficiency", "hypothesis": "It will help ensure that we mitigate the impact of COVID-19"}
+{"source": "To limit the impact of COVID-19", "hypothesis": "To mitigate the impact of COVID-19"}
+{"source": "Our goal is simple, we want to bend the curve and effectively interrupt the spread of the virus", "hypothesis": "To bend the curve, and disrupt the spread of the virus"}
+{"source": "We want to effectively interrupt the spread of the virus", "hypothesis": "To disrupt the spread of the virus"}
+{"source": "We want to effectively interrupt the spread of the virus", "hypothesis": "To disrupt the spread of the virus"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Services for the sickest people", "hypothesis": "services to serving those who are the sickest"}
+{"source": "The sickest people", "hypothesis": "those who are the sickest"}
+{"source": "Personal protective equipment", "hypothesis": "resources, including personal protective equipment"}
+{"source": "The allocation of resources, including personal protective equipment", "hypothesis": "resources, including personal protective equipment"}
+{"source": "Personal protective equipment", "hypothesis": "personal protective equipment"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "The SARS-CoV-2 virus", "hypothesis": "The SARS-CoV-2 virus"}
+{"source": "Coronavirus disease 2019", "hypothesis": "coronavirus disease 2019"}
+{"source": "A serious contagious respiratory illness", "hypothesis": "a contagious respiratory disease"}
+{"source": "December 2019", "hypothesis": "December 2019"}
+{"source": "Wuhan, Hubei, China", "hypothesis": "Wuhan, Hubei, China"}
+{"source": "A coronavirus is a type of the disease", "hypothesis": "A coronavirus is a type of disease"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Some varieties of the common cold"}
+{"source": "March 11, 2020", "hypothesis": "11 March 2020"}
+{"source": "The World Health Organization (WHO)", "hypothesis": "The World Health Organization (WHO)"}
+{"source": "How COVID-19 works", "hypothesis": "Much about COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To prevent the spread of the disease", "hypothesis": "To avoid spreading the disease"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Unknown"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Contact your nearest embassy or consulate for assistance", "hypothesis": "Not stated in the sentence"}
+{"source": "Contact your nearest embassy or consulate for assistance", "hypothesis": "Contact your nearest embassy or consulate for assistance"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes, to pay for airfare", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "It may be"}
+{"source": "Yes", "hypothesis": "It may be"}
+{"source": "Yes", "hypothesis": "It may have"}
+{"source": "No checked baggage", "hypothesis": "No checked baggage"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Europe", "hypothesis": "Europe"}
+{"source": "No", "hypothesis": "No"}
+{"source": "The United States, Spain, Italy, Germany, France, mainland China, Iran, South Korea and the United Kingdom", "hypothesis": "The United States, Spain, Italy, Germany, France, mainland China, Iran, and the United Kingdom"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Up to 24 hours", "hypothesis": "Up to 24 hours"}
+{"source": "Up to 3 days", "hypothesis": "Up to 3 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The extent to which this is the case is still being studied", "hypothesis": "To what extent is still being investigated"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Shortness of breath, sore throat, headache, body aches, or phlegm production", "hypothesis": "shortness of breath, a sore throat, headache, muscle pain, or sputum production"}
+{"source": "This condition", "hypothesis": "this condition"}
+{"source": "This condition", "hypothesis": "this condition"}
+{"source": "This condition", "hypothesis": "this condition"}
+{"source": "This condition", "hypothesis": "this condition"}
+{"source": "This condition", "hypothesis": "this condition"}
+{"source": "Very mild, cold-like symptoms", "hypothesis": "Very mild symptoms"}
+{"source": "Cold-like symptoms", "hypothesis": "A cold"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "COVID-19 infection and serious complications", "hypothesis": "COVID-19 infection and serious complications"}
+{"source": "COVID-19 infection and serious complications", "hypothesis": "COVID-19 infection and serious complications"}
+{"source": "Serious complications", "hypothesis": "serious complications"}
+{"source": "COVID-19 infection and serious complications", "hypothesis": "COVID-19 infection and serious complications"}
+{"source": "Serious complications", "hypothesis": "serious complications"}
+{"source": "Cardiovascular disease, diabetes, high blood pressure, chronic respiratory disease and common cancers", "hypothesis": "cardiovascular disease, diabetes, hypertension, chronic respiratory disease, and cancer"}
+{"source": "Cardiovascular disease, diabetes, high blood pressure, chronic respiratory disease and common cancers", "hypothesis": "cardiovascular disease, diabetes, hypertension, chronic respiratory disease, and cancer"}
+{"source": "Cardiovascular disease, diabetes, high blood pressure, chronic respiratory disease and common cancers", "hypothesis": "cardiovascular disease, diabetes, hypertension, chronic respiratory disease, and cancer"}
+{"source": "Older adults and those with weakened immune systems or underlying conditions", "hypothesis": "the elderly and those with weakened immune systems or underlying health conditions"}
+{"source": "Older adults and those with weakened immune systems or underlying conditions", "hypothesis": "the elderly and those with weakened immune systems or underlying health conditions"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Mild to moderate", "hypothesis": "Mild or moderate"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "2 to 14 days", "hypothesis": "The time between being exposed to the virus and the emergence of symptoms"}
+{"source": "2 to 14 days", "hypothesis": "Typically between 2 and 14 days"}
+{"source": "27 days", "hypothesis": "27 days"}
+{"source": "The period of contagiousness", "hypothesis": "The period of infectiousness"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The extent of this phenomenon is still being studied", "hypothesis": "Still being investigated"}
+{"source": "The extent of this phenomenon is still being studied", "hypothesis": "Still being investigated"}
+{"source": "It has not yet been clearly established", "hypothesis": "It is unclear"}
+{"source": "It has not yet been clearly established", "hypothesis": "It is unclear"}
+{"source": "The long-term effects are still unclear", "hypothesis": "Unclear, but there is evidence of reduced lung capacity in some recovered patients"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Social distancing", "hypothesis": "Social distancing"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Small", "hypothesis": "Small"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Working from home when possible, avoiding crowds, and avoiding occasional leaving of your home unless absolutely necessary", "hypothesis": "Working from home whenever possible, avoiding crowds, and avoiding leaving your home unless absolutely necessary"}
+{"source": "When possible", "hypothesis": "No specific reason is mentioned"}
+{"source": "No reason given", "hypothesis": "No specific reason is mentioned"}
+{"source": "Unless absolutely necessary", "hypothesis": "Unless absolutely necessary"}
+{"source": "No", "hypothesis": "No"}
+{"source": "At least 2 metres (6 feet)", "hypothesis": "At least 2 meters (6 feet)"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Primarily lipid", "hypothesis": "The mostly fat-based viral envelope"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "At least 20 seconds", "hypothesis": "At least 20 seconds"}
+{"source": "Rubbing your hands well", "hypothesis": "Rubbing your hands for at least 20 seconds"}
+{"source": "No", "hypothesis": "No"}
+{"source": "A hydroalcoholic solution", "hypothesis": "A &gt;60% alcohol-based hand sanitizer"}
+{"source": "> 60%", "hypothesis": "&gt;60%"}
+{"source": "It", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes, into the crook of your elbow or a tissue", "hypothesis": "Yes"}
+{"source": "Yes, into the crook of your elbow or a tissue", "hypothesis": "Yes"}
+{"source": "Yes, immediately", "hypothesis": "Yes"}
+{"source": "Yes, immediately", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "An appropriate disinfectant, such as diluted household bleach", "hypothesis": "A suitable disinfectant"}
+{"source": "An appropriate disinfectant, such as diluted household bleach", "hypothesis": "A suitable disinfectant, such as diluted household bleach"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Hugs, kisses, handshakes, fist bumps and any other physical contact", "hypothesis": "Hugs, kisses, handshakes, fist bumps, and any other contact"}
+{"source": "Physical contact", "hypothesis": "Any other contact"}
+{"source": "Hugs, kisses, handshakes, fist bumps", "hypothesis": "Hugs, kisses, handshakes, fist bumps"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes, partially", "hypothesis": "Partially"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Because it becomes damp", "hypothesis": "It becomes damp"}
+{"source": "Because it becomes damp", "hypothesis": "It becomes damp"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Specialized equipment", "hypothesis": "Specialist equipment"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Wash your hands thoroughly using a hydroalcoholic solution", "hypothesis": "Clean your hands with hand sanitizer"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Fears of the virus", "hypothesis": "Due to virus fears"}
+{"source": "Hundreds", "hypothesis": "Hundreds"}
+{"source": "No", "hypothesis": "Unknown"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The same hygiene practices as everywhere else", "hypothesis": "Wash hands frequently, or use alcohol-based hand sanitizer, and avoid touching your face"}
+{"source": "Frequently", "hypothesis": "Frequently"}
+{"source": "A hydro-alcoholic solution", "hypothesis": "Alcohol-based hand sanitizer"}
+{"source": "Your face", "hypothesis": "Your face"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No answer in the text", "hypothesis": "It is not specified"}
+{"source": "Carefully follow the instructions on the packaging", "hypothesis": "Follow the instructions on the packaging"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To track down the people sitting next to them to test, advise or quarantine them", "hypothesis": "So that the authorities can track down the people who were sitting near them for testing or quarantine"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "To test them", "hypothesis": "So that they can be tested"}
+{"source": "To quarantine them", "hypothesis": "So that they can be quarantined"}
+{"source": "Relieving symptoms and preventing complications", "hypothesis": "Relieving symptoms and preventing complications"}
+{"source": "Relieving symptoms and preventing complications", "hypothesis": "Relieving symptoms and preventing complications"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Acetaminophen", "hypothesis": "Acetaminophen"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "14 days", "hypothesis": "14 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Staying home and avoiding interaction with others", "hypothesis": "Staying at home and not interacting with other people"}
+{"source": "Stay home", "hypothesis": "Stay at home"}
+{"source": "Avoid interaction with others", "hypothesis": "Not interact"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "France, Germany, Hong Kong, Iran, Italy, Japan, Macau, Singapore, South Korea, Spain, Taiwan, the United Kingdom, the United States, the entire Schengen Area and sometimes other miscellaneous surrounding areas", "hypothesis": "France, Germany, Hong Kong, Iran, Italy, Japan, Macau, Singapore, South Korea, Spain, Taiwan, the United Kingdom, the United States, the Schengen Area as a whole, and sometimes various others"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Sometimes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Both", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Due to the spread of the disease and ever-changing entry restrictions, or because fewer people are flying regularly and airlines are struggling to fill seats.", "hypothesis": "Either due to the disease's spread and ever-changing entry restrictions, or because fewer people are flying and airlines are having trouble filling seats"}
+{"source": "The spread of the disease", "hypothesis": "The disease's spread"}
+{"source": "Ever-changing entry restrictions", "hypothesis": "Ever-changing entry restrictions"}
+{"source": "Fewer people are flying regularly", "hypothesis": "Fewer people are flying"}
+{"source": "Airlines are struggling to fill seats", "hypothesis": "Airlines are having trouble filling seats"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The Italian doctor was diagnosed with COVID-19", "hypothesis": "The Italian doctor was diagnosed with COVID-19"}
+{"source": "At the end of February", "hypothesis": "In late February"}
+{"source": "Costa Adeje (Canary Islands)", "hypothesis": "Costa Adeje (Canary Islands)"}
+{"source": "Because the Italian doctor, who was staying at the hotel, was diagnosed with COVID-19", "hypothesis": "Because the Italian doctor was diagnosed with COVID-19 and had stayed at the hotel"}
+{"source": "Lockdowns", "hypothesis": "Not specified"}
+{"source": "Restrictive internal restrictions", "hypothesis": "Not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "to reduce the spread of the virus", "hypothesis": "to try to reduce the spread of the virus"}
+{"source": "to reduce the spread of the virus", "hypothesis": "to try to reduce the spread of the virus"}
+{"source": "to reduce the spread of the virus", "hypothesis": "to try to reduce the spread of the virus"}
+{"source": "No, many governments are advising against travel to China", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Examples of possible restrictions", "hypothesis": "Examples of restrictions"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "You can result in several years of imprisonment", "hypothesis": "You can get years in prison"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Shopping malls", "hypothesis": "Malls"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Real-name registration", "hypothesis": "Real-name registration"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "If they are", "hypothesis": "Not necessarily"}
+{"source": "Life imprisonment", "hypothesis": "Life imprisonment"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Italy, Spain and France", "hypothesis": "Italy, Spain, and France"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The EU's external borders", "hypothesis": "The EU's outer borders"}
+{"source": "It is not specified why the EU has closed its outer borders", "hypothesis": "Not specified"}
+{"source": "The EU's external borders", "hypothesis": "The outer borders of the EU"}
+{"source": "It is not specified if the EU has closed any other borders", "hypothesis": "Not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "To avoid the potential risk of being forced to pay for a passenger's flight out of the country", "hypothesis": "To avoid falling afoul of restrictions"}
+{"source": "To avoid the potential risk of running afoul of restrictions", "hypothesis": "To avoid being on the hook for a passenger's flight out"}
+{"source": "No, you may need to", "hypothesis": "You may have to"}
+{"source": "No, you may need to", "hypothesis": "You may have to"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Possibly", "hypothesis": "Maybe"}
+{"source": "Possibly", "hypothesis": "Maybe"}
+{"source": "Correspondence", "hypothesis": "Connecting flights"}
+{"source": "There is no mention of connecting flights in the sentence.", "hypothesis": "It is not specified in the sentence."}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "En route", "hypothesis": "Somewhere along the way"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Maybe"}
+{"source": "No", "hypothesis": "Maybe"}
+{"source": "No", "hypothesis": "Maybe"}
+{"source": "Yes", "hypothesis": "Maybe"}
+{"source": "Visa and passport processing", "hypothesis": "Visa and passport processing"}
+{"source": "Emergencies", "hypothesis": "Urgent need"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "“COVID-19,” “the novel coronavirus,” “the virus,” or “the pandemic”", "hypothesis": "Location-neutral terms such as COVID-19, novel coronavirus, the virus, or the pandemic"}
+{"source": "Terms that refer to a specific location", "hypothesis": "Location-specific terms"}
+{"source": "COVID-19", "hypothesis": "COVID-19"}
+{"source": "The novel coronavirus", "hypothesis": "The novel coronavirus"}
+{"source": "The virus", "hypothesis": "The virus"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "International", "hypothesis": "The US government's Centers for Disease Control and Prevention"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Daily updates", "hypothesis": "Daily updates"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "SARS-like coronavirus WIV1-CoV", "hypothesis": "SARS-like coronavirus WIV1"}
+{"source": "severe acute respiratory syndrome coronavirus (SARSr-CoV)", "hypothesis": "Severe acute respiratory syndrome-related coronavirus (SARSr-CoV)"}
+{"source": "the Chinese red horseshoe bat (Rhinolophus sinicus)", "hypothesis": "Chinese rufous horseshoe bats (Rhinolophus sinicus)"}
+{"source": "Specific positive-sense single-stranded RNA enclosed in an envelope", "hypothesis": "Single-stranded positive-sense RNA enclosed within an envelope"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The research process aimed at developing a prophylactic vaccine or a prescription therapeutic drug to reduce the specific severity of coronavirus disease 2019-20 (COVID-19)", "hypothesis": "The research process to develop a preventative vaccine or therapeutic prescription drug that would alleviate the severity of 2019-20 coronavirus disease (COVID-19)"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Reduce the specific severity of coronavirus disease 2019-20 (COVID-19)", "hypothesis": "Alleviate the severity of 2019-20 coronavirus disease (COVID-19)"}
+{"source": "A dynamic and systematic review", "hypothesis": "A dynamic, systematic review"}
+{"source": "Vaccine and drug development", "hypothesis": "Vaccine and drug development"}
+{"source": "more than five years", "hypothesis": "more than five years"}
+{"source": "more than five years", "hypothesis": "more than five years"}
+{"source": "Laboratory research on microorganisms and animals, the application for regulatory status, particularly from the FDA, of an investigational new drug in order to begin clinical trials on humans and obtaining regulatory approval with a new drug application", "hypothesis": "Laboratory research on microorganisms and animals, filing for regulatory status, clinical trials on humans, and obtaining regulatory approval with a new drug application"}
+{"source": "Laboratory research on microorganisms and animals", "hypothesis": "Laboratory research on microorganisms and animals"}
+{"source": "To begin clinical trials on humans", "hypothesis": "To initiate clinical trials on humans"}
+{"source": "To obtain regulatory status", "hypothesis": "To file for regulatory status for an investigational new drug"}
+{"source": "To begin clinical trials on humans", "hypothesis": "To initiate clinical trials on humans"}
+{"source": "To test the new drug on humans", "hypothesis": "To test the drug on humans"}
+{"source": "To place the new drug on the market", "hypothesis": "To market the drug"}
+{"source": "Obtaining regulatory approval with a new drug application", "hypothesis": "A new drug application and regulatory approval"}
+{"source": "Compounds that emerge from the drug discovery process to determine a potential vaccine or antiviral candidate", "hypothesis": "Compounds that emerge from the process of drug discovery to specify a vaccine or antiviral candidate"}
+{"source": "New molecular entities or NMEs", "hypothesis": "New molecular entities or NMEs"}
+{"source": "The drug discovery process", "hypothesis": "The process of drug discovery"}
+{"source": "A potential vaccine or antiviral candidate", "hypothesis": "A vaccine or antiviral candidate"}
+{"source": "A potential vaccine", "hypothesis": "Vaccine"}
+{"source": "An antiviral", "hypothesis": "Antiviral"}
+{"source": "These entities", "hypothesis": "These"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The general safety, toxicity, pharmacokinetics, and metabolism", "hypothesis": "The safety, toxicity, pharmacokinetics, and metabolism"}
+{"source": "The general safety", "hypothesis": "The safety"}
+{"source": "The toxicity", "hypothesis": "The toxicity"}
+{"source": "The pharmacokinetics", "hypothesis": "The pharmacokinetics"}
+{"source": "The metabolism", "hypothesis": "The metabolism"}
+{"source": "To assess all these key parameters prior to clinical trials in humans", "hypothesis": "To assess all of these parameters prior to human clinical trials"}
+{"source": "To assess all these key parameters prior to clinical trials in humans", "hypothesis": "To assess all of these parameters prior to human clinical trials"}
+{"source": "To assess its safety and efficacy", "hypothesis": "To prove safety and efficacy"}
+{"source": "To assess its safety and efficacy", "hypothesis": "To prove safety and efficacy"}
+{"source": "to recommend a specific dose and dosing regimen for the first use in a human clinical trial", "hypothesis": "A further major objective of drug development is to recommend the dose and schedule for the first use in a human clinical trial"}
+{"source": "to recommend a specific dose and dosing regimen for the first use in a human clinical trial", "hypothesis": "to recommend the dose and schedule for the first use in a human clinical trial"}
+{"source": "first-in-man", "hypothesis": "first-in-man"}
+{"source": "to move from a medicinal chemist making milligrams to producing kilograms and tons", "hypothesis": "They should optimize the process so they can scale up"}
+{"source": "milligrams", "hypothesis": "A medicinal chemist producing milligrams"}
+{"source": "kilograms", "hypothesis": "The kilogram scale"}
+{"source": "tons", "hypothesis": "The ton scale"}
+{"source": "capsules, tablets, aerosol, or a formulation for intramuscular, subcutaneous or intravenous injection", "hypothesis": "capsules, tablets, aerosol, intramuscular injectable, subcutaneous injectable, or intravenous formulations"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Chemistry, manufacturing and control (CMC)", "hypothesis": "Chemistry, manufacturing, and control (CMC)"}
+{"source": "Many aspects of drug development", "hypothesis": "Many aspects of drug development"}
+{"source": "Tests designed to determine potential major toxicities of a new compound", "hypothesis": "Tests designed to determine the major toxicities of a novel compound"}
+{"source": "Potential major toxicities of a new compound", "hypothesis": "The major toxicities of a novel compound"}
+{"source": "Before its first use in humans", "hypothesis": "Prior to first use in humans"}
+{"source": "Three extended phases", "hypothesis": "Three multiple-year stages"}
+{"source": "A fourth post-approval phase", "hypothesis": "A post-approval stage"}
+{"source": "Continued monitoring of the safety of the vaccine or drug treatment", "hypothesis": "Ongoing safety monitoring of the vaccine or drug therapy"}
+{"source": "To provide an initial measure of efficacy and explore safety", "hypothesis": "To establish an initial reading of efficacy and further explore safety"}
+{"source": "Safety", "hypothesis": "Safety"}
+{"source": "A small number of adult patients", "hypothesis": "Small numbers"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The testing required to bring a new vaccine or antiviral drug into the clinic for the first time", "hypothesis": "The tests required to move a novel vaccine or antiviral drug into the clinic for the first time"}
+{"source": "The testing required to bring a new vaccine or antiviral drug into the clinic for the first time", "hypothesis": "The tests required to move a novel vaccine or antiviral drug into the clinic for the first time"}
+{"source": "Potential long-term toxicities", "hypothesis": "Any long-term or chronic toxicities"}
+{"source": "Potential chronic toxicities", "hypothesis": "Any long-term or chronic toxicities"}
+{"source": "Fertility, reproduction, immune system, etc.", "hypothesis": "Fertility, reproduction, immune system, among others"}
+{"source": "Effects on systems not previously studied (fertility, reproduction, immune system, etc.)", "hypothesis": "Effects on systems not previously monitored (fertility, reproduction, immune system, among others)"}
+{"source": "Effects on systems not previously studied (fertility, reproduction, immune system, etc.)", "hypothesis": "Effects on systems not previously monitored (fertility, reproduction, immune system, among others)"}
+{"source": "Effects on systems not previously studied", "hypothesis": "Effects on fertility"}
+{"source": "Effects on systems not previously studied", "hypothesis": "Effects on reproduction"}
+{"source": "Effects on systems not previously studied", "hypothesis": "Effects on the immune system"}
+{"source": "A new drug application or new NDA", "hypothesis": "A new drug application or NDA"}
+{"source": "This process", "hypothesis": "This process"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Most new drug candidates (NCEs) fail due to unacceptable toxicity or a lack of clinical evidence of efficacy on the targeted disease", "hypothesis": "They have unacceptable toxicity or they do not prove efficacy on the targeted disease"}
+{"source": "They do not", "hypothesis": "It is not specified why NCEs fail because they have unacceptable toxicity, only that they do"}
+{"source": "They do", "hypothesis": "It is not specified why NCEs fail because they do not prove efficacy, only that they do not"}
+{"source": "No", "hypothesis": "No, Phase II-III clinical trials show that NCEs often do not prove efficacy on the targeted disease"}
+{"source": "US$2.67 billion", "hypothesis": "US$1.8 billion plus $870 million"}
+{"source": "US$1.8 billion", "hypothesis": "US$1.8 billion"}
+{"source": "US$870 million", "hypothesis": "$870 million"}
+{"source": "$2.6 billion", "hypothesis": "$2.6 billion"}
+{"source": "$2.6 billion", "hypothesis": "$2.6 billion"}
+{"source": "The total major capital expenditures incurred by a manufacturer to get a drug approved in successful Phase III trials", "hypothesis": "The total capital expenditure for a manufacturer having a drug approved through successful Phase III trials"}
+{"source": "Seven", "hypothesis": "Seven"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Four", "hypothesis": "Four"}
+{"source": "One", "hypothesis": "Four"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "$125 million", "hypothesis": "US$125 million"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "March", "hypothesis": "March"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Rapidly", "hypothesis": "Rapidly"}
+{"source": "Rapidly", "hypothesis": "Rapidly"}
+{"source": "Rapidly", "hypothesis": "Rapidly"}
+{"source": "Rapidly", "hypothesis": "Rapidly"}
+{"source": "To coordinate and accelerate the results of international clinical trials of the most promising post-infection treatments", "hypothesis": "To coordinate and expedite results from international clinical trials on the most promising post-infection treatments"}
+{"source": "To accelerate the results", "hypothesis": "To expedite results from international clinical trials"}
+{"source": "By coordinating the results", "hypothesis": "The text does not specify how the coalition expedites results"}
+{"source": "Not specified in the sentence", "hypothesis": "The text does not specify the most promising post-infection treatments"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Aimed at alleviating COVID-19 disease", "hypothesis": "To alleviate the illness of COVID-19"}
+{"source": "hydroxychloroquine", "hypothesis": "hydroxychloroquine"}
+{"source": "by involving hundreds of thousands of patients infected with COVID-19", "hypothesis": "In hundreds to thousands of COVID-19-infected people"}
+{"source": "hundreds of thousands", "hypothesis": "hundreds to thousands"}
+{"source": "103", "hypothesis": "103"}
+{"source": "During the month of April", "hypothesis": "During April"}
+{"source": "29", "hypothesis": "29"}
+{"source": "Yes, treatments really influence the need for ventilation in patients with COVID-19-induced pneumonia", "hypothesis": "Yes"}
+{"source": "Yes, treatments really influence the need for intensive care in patients with COVID-19-induced pneumonia", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Using data capture on a WHO website", "hypothesis": "By using data entries, including informed consent, on a WHO website"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Seven countries", "hypothesis": "Seven countries"}
+{"source": "INSERM (Paris, France)", "hypothesis": "INSERM (Paris, France)"}
+{"source": "US$108 million", "hypothesis": "US$108 million"}
+{"source": "Individuals, organizations, and governments", "hypothesis": "Individuals, organizations, and governments"}
+{"source": "203,000", "hypothesis": "203,000"}
+{"source": "45", "hypothesis": "45"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "None", "hypothesis": "None"}
+{"source": "Other drugs", "hypothesis": "Others"}
+{"source": "Many new treatment candidates", "hypothesis": "Numerous treatment candidates"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Important interactions", "hypothesis": "Extensive interactions"}
+{"source": "They affect the therapeutic dose", "hypothesis": "Affecting the therapeutic dose"}
+{"source": "They affect disease control", "hypothesis": "Affecting disease mitigation"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "April 12", "hypothesis": "On 12 April"}
+{"source": "Because several people developed irregular heartbeats", "hypothesis": "Because several people given high doses of chloroquine for COVID-19 infection developed irregular heart rates"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "35 patients", "hypothesis": "35 patients"}
+{"source": "4 days", "hypothesis": "4 days"}
+{"source": "45 patients", "hypothesis": "45 patients"}
+{"source": "11 days", "hypothesis": "11 days"}
+{"source": "Wuhan", "hypothesis": "Wuhan"}
+{"source": "240", "hypothesis": "240"}
+{"source": "Pneumonia", "hypothesis": "pneumonia"}
+{"source": "Favipiravir", "hypothesis": "favipiravir"}
+{"source": "Umifenovir", "hypothesis": "umifenovir"}
+{"source": "in vitro and in vivo laboratory studies", "hypothesis": "Laboratory studies in vitro and in vivo"}
+{"source": "an early stage of development of a vaccine, antiviral agent or monoclonal antibody", "hypothesis": "A beginning stage for development of a vaccine, antiviral or monoclonal antibody therapy"}
+{"source": "in vitro and in vivo laboratory studies", "hypothesis": "Laboratory studies in vitro and in vivo"}
+{"source": "experiments to determine effective doses and toxicity", "hypothesis": "Experiments to determine effective doses and toxicity"}
+{"source": "a candidate compound", "hypothesis": "A candidate compound"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The main protease", "hypothesis": "The main protease"}
+{"source": "Chinese researchers", "hypothesis": "Chinese researchers"}
+{"source": "To find the enzyme", "hypothesis": "To find the enzyme"}
+{"source": "The main protease", "hypothesis": "The main protease"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "It is not clear", "hypothesis": "It is unclear yet"}
+{"source": "Probably not or very rarely", "hypothesis": "probably does not occur, or only occurs very rarely"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Little is known", "hypothesis": "Little"}
+{"source": "No, there is little strong evidence", "hypothesis": "No"}
+{"source": "43 women from New York City who tested positive for COVID-19", "hypothesis": "43 women from New York who tested positive for COVID-19"}
+{"source": "A case series of 43 women from New York City who tested positive for COVID-19", "hypothesis": "A case series of 43 women from New York who tested positive for COVID-19"}
+{"source": "0%", "hypothesis": "86%"}
+{"source": "9.3%", "hypothesis": "9.3%"}
+{"source": "4.7%", "hypothesis": "4.7%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Two", "hypothesis": "Two"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "12", "hypothesis": "12"}
+{"source": "All results were negative", "hypothesis": "All results were negative"}
+{"source": "Fever and cough", "hypothesis": "Fever and cough"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Early-phase ground-glass opacities", "hypothesis": "Ground-glass opacities at early stage"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "At least 10 days", "hypothesis": "10 days"}
+{"source": "Immediately after leaving hospital", "hypothesis": "After being discharged"}
+{"source": "No", "hypothesis": "No"}
+{"source": "There is no data to date on the implications of COVID-19 infection during telework.", "hypothesis": "There are no data yet concerning the implications of COVID-19 infections for labour."}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "2", "hypothesis": "Two"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Four out of seven", "hypothesis": "Four of seven"}
+{"source": "Two out of five", "hypothesis": "Two of five"}
+{"source": "Four out of five", "hypothesis": "Four of five"}
+{"source": "In the first trimester", "hypothesis": "First trimester"}
+{"source": "Not specified", "hypothesis": "Second trimester"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The clinical presentation varies slightly from moderate to severe infection", "hypothesis": "The clinical presentation is variable, from mild to severe infection"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "27%", "hypothesis": "27%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "7 days", "hypothesis": "7 days"}
+{"source": "14 days", "hypothesis": "14 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Three", "hypothesis": "Three"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "14 days", "hypothesis": "14 days"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "2 meters", "hypothesis": "2 metres"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "An individual's clinical symptoms", "hypothesis": "The symptoms of an individual"}
+{"source": "COVID-19", "hypothesis": "COVID-19"}
+{"source": "The clinical case definitions", "hypothesis": "The following case definitions"}
+{"source": "The WHO", "hypothesis": "The WHO"}
+{"source": "The clinical case definitions", "hypothesis": "The following case definitions"}
+{"source": "a suspected case for which COVID-19 testing is inconclusive or a suspected case for which testing could not be performed for any reason", "hypothesis": "A suspect case for whom testing for the COVID-19 virus is inconclusive or a suspect case for whom testing could not be performed for any reason"}
+{"source": "a probable case", "hypothesis": "A probable case"}
+{"source": "a probable case", "hypothesis": "A probable case"}
+{"source": "COVID-19 infection", "hypothesis": "Laboratory confirmation of COVID-19 infection"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Other situations", "hypothesis": "Other situations as indicated by local risk assessments"}
+{"source": "48 hours", "hypothesis": "Within 48 hours"}
+{"source": "Other situations as indicated by local risk assessments", "hypothesis": "Other situations as indicated by local risk assessments"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Virological monitoring", "hypothesis": "Molecular tests for COVID-19"}
+{"source": "COVID-19 molecular tests", "hypothesis": "Molecular tests"}
+{"source": "Using COVID-19 molecular tests", "hypothesis": "By using molecular tests for COVID-19"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Their citizens", "hypothesis": "Their citizens"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "An app and SIM cards", "hypothesis": "An app and SIM cards"}
+{"source": "An app and SIM cards", "hypothesis": "An app and SIM cards"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Some cases of the common cold", "hypothesis": "Some cases of the common cold"}
+{"source": "Rhinoviruses", "hypothesis": "Rhinoviruses"}
+{"source": "More lethal types", "hypothesis": "More lethal varieties"}
+{"source": "More lethal types", "hypothesis": "More lethal varieties"}
+{"source": "More lethal types", "hypothesis": "More lethal varieties"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Upper respiratory disease", "hypothesis": "An upper respiratory tract disease"}
+{"source": "Diarrhea", "hypothesis": "Diarrhea"}
+{"source": "Diarrhea", "hypothesis": "Diarrhea"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Coronaviruses", "hypothesis": "Coronaviruses"}
+{"source": "Coronaviridae", "hypothesis": "Coronaviridae"}
+{"source": "Nidovirales", "hypothesis": "Nidovirales"}
+{"source": "Riboviria", "hypothesis": "Riboviria"}
+{"source": "Enveloped viruses", "hypothesis": "Enveloped viruses"}
+{"source": "Single-stranded positive-sense RNA", "hypothesis": "Positive-sense single-stranded RNA"}
+{"source": "Regular helical", "hypothesis": "Helical"}
+{"source": "No, they have characteristic club-shaped peaks", "hypothesis": "Yes"}
+{"source": "Yes, the peaks project from their surface", "hypothesis": "Yes"}
+{"source": "An image reminiscent of a glowing solar corona", "hypothesis": "An image reminiscent of the solar corona"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The first coronaviruses", "hypothesis": "The earliest ones studied were from human patients with the common cold"}
+{"source": "Young human patients with the common cold", "hypothesis": "Human patients with the common cold"}
+{"source": "Human coronavirus 229E and human coronavirus OC43", "hypothesis": "Human coronavirus 229E and human coronavirus OC43"}
+{"source": "One of the earliest coronaviruses studied", "hypothesis": "One of the earliest ones studied"}
+{"source": "One of the earliest coronaviruses studied", "hypothesis": "One of the earliest ones studied"}
+{"source": "June Almeida", "hypothesis": "Scottish virologist June Almeida"}
+{"source": "St Thomas' Hospital in London", "hypothesis": "St. Thomas Hospital in London"}
+{"source": "2003", "hypothesis": "2003"}
+{"source": "2004", "hypothesis": "2004"}
+{"source": "2005", "hypothesis": "2005"}
+{"source": "2012", "hypothesis": "2012"}
+{"source": "2019", "hypothesis": "2019"}
+{"source": "SARS-CoV, HCoV NL63, HKU1, MERS-CoV, SARS-CoV-2, and HCoV OC43", "hypothesis": "SARS-CoV, HCoV NL63, HKU1, MERS-CoV, and SARS-CoV-2"}
+{"source": "1968", "hypothesis": "1968"}
+{"source": "An informal group of virologists", "hypothesis": "An informal group of virologists"}
+{"source": "The journal Nature", "hypothesis": "The journal Nature"}
+{"source": "This newly emerging family of viruses", "hypothesis": "The new family of viruses"}
+{"source": "a distinct pair of electron-dense shells", "hypothesis": "A distinct pair of electron dense shells"}
+{"source": "a lipid bilayer", "hypothesis": "A lipid bilayer where the membrane (M), envelope (E) and spike (S) structural proteins are anchored"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The lipid bilayer envelope, membrane proteins, and the essential nucleocapsid", "hypothesis": "The lipid bilayer envelope, membrane proteins, and nucleocapsid"}
+{"source": "It protects the virus", "hypothesis": "It protects the virus"}
+{"source": "It protects the virus", "hypothesis": "It protects the virus"}
+{"source": "It protects the virus", "hypothesis": "It protects the virus"}
+{"source": "26.4 to 31.7 kilobases", "hypothesis": "26.4 to 31.7 kilobases"}
+{"source": "26.4 kilobases", "hypothesis": "26.4 kilobases"}
+{"source": "31.7 kilobases", "hypothesis": "31.7 kilobases"}
+{"source": "This genome", "hypothesis": "The genome size"}
+{"source": "It is among the largest", "hypothesis": "It is one of the largest"}
+{"source": "One of the largest", "hypothesis": "One of the largest"}
+{"source": "The number of accessory proteins and their function", "hypothesis": "The number of accessory proteins and their function"}
+{"source": "The number of accessory proteins and their function", "hypothesis": "The number of accessory proteins and their function"}
+{"source": "When the viral spike (S) glycoprotein attaches to its complementary cellular host receptor", "hypothesis": "When the viral spike (S) glycoprotein attaches to its complementary host cell receptor"}
+{"source": "The viral spike (S) glycoprotein", "hypothesis": "The viral spike (S) glycoprotein"}
+{"source": "A host cell protease", "hypothesis": "A protease of the host cell"}
+{"source": "A host cell protease", "hypothesis": "A protease of the host cell"}
+{"source": "It is rapidly cleaved and activated", "hypothesis": "It is cleaved and activated"}
+{"source": "It is activated", "hypothesis": "It is cleaved and activated"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "A long polyprotein", "hypothesis": "The initial overlapping open reading frame of the virus genome"}
+{"source": "A long polyprotein", "hypothesis": "A long polyprotein"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The major replicase/transcriptase protein is RNA-dependent RNA polymerase", "hypothesis": "The RNA-dependent RNA polymerase"}
+{"source": "RNA-dependent RNA polymerase", "hypothesis": "The RNA-dependent RNA polymerase"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The other non-structural proteins", "hypothesis": "The other nonstructural proteins"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The nonstructural protein exoribonuclease", "hypothesis": "The exoribonuclease nonstructural protein"}
+{"source": "RNA-dependent RNA polymerase", "hypothesis": "The RNA-dependent RNA polymerase"}
+{"source": "Viral genome replication", "hypothesis": "To replicate the viral genome"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The replication of the active viral genome", "hypothesis": "To transcribe the viral genome"}
+{"source": "The replication of the active viral genome", "hypothesis": "To transcribe the viral genome"}
+{"source": "The replicated positive-sense genomic RNA", "hypothesis": "The replicated positive-sense genomic RNA"}
+{"source": "The positive-sense genomic RNA", "hypothesis": "The positive-sense genomic RNA"}
+{"source": "The replicated positive-sense genomic RNA", "hypothesis": "Replicated positive-sense genomic RNA"}
+{"source": "Gene transcripts from the last third of the genome", "hypothesis": "Gene transcripts of the last third of the virus genome after the initial overlapping reading frame"}
+{"source": "mRNAs", "hypothesis": "The mRNAs"}
+{"source": "The last third of the genome", "hypothesis": "The last third of the virus genome after the initial overlapping reading frame"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Within the endoplasmic reticulum", "hypothesis": "Inside the endoplasmic reticulum"}
+{"source": "The endoplasmic reticulum", "hypothesis": "The endoplasmic reticulum"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The interaction of the coronavirus spike with the complementary host cell receptor", "hypothesis": "The interaction of the coronavirus spike protein with its complement host cell receptor"}
+{"source": "The interaction of the coronavirus spike with the complementary host cell receptor", "hypothesis": "The interaction of the coronavirus spike protein with its complement host cell receptor"}
+{"source": "The interaction of the coronavirus spike with the complementary host cell receptor", "hypothesis": "The interaction of the coronavirus spike protein with its complement host cell receptor"}
+{"source": "It is critical in determining the tissue tropism, infectivity, and species diversity of the virus for public health.", "hypothesis": "It is central in determining the tissue tropism, infectivity, and species range of the virus."}
+{"source": "By binding to the essential angiotensin-converting enzyme 2 (ACE2) receptor", "hypothesis": "By attaching to the angiotensin-converting enzyme 2 (ACE2) receptor"}
+{"source": "The angiotensin-converting enzyme 2 (ACE2) receptor", "hypothesis": "The angiotensin-converting enzyme 2 (ACE2) receptor"}
+{"source": "The SARS coronavirus", "hypothesis": "The SARS coronavirus"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Bovine coronavirus, human coronavirus OC43, human coronavirus HKU1", "hypothesis": "Bovine Coronavirus, Human coronavirus OC43"}
+{"source": "Bovine coronavirus, human coronavirus OC43, human coronavirus HKU1", "hypothesis": "Bovine Coronavirus, Human coronavirus OC43"}
+{"source": "Yes", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "No", "hypothesis": "No"}
+{"source": "EriCoV", "hypothesis": "EriCoV"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "As early as 8,000 years BCE", "hypothesis": "As recently as 8000 BCE"}
+{"source": "55 million years ago or more", "hypothesis": "As far back as 55 million years or more"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Around 2400 BCE", "hypothesis": "about 2400 BCE"}
+{"source": "Around 3300 BCE", "hypothesis": "3300 BCE"}
+{"source": "Around 2800 BCE", "hypothesis": "2800 BCE"}
+{"source": "Around 3000 BCE", "hypothesis": "about 3000 BCE"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Several centuries ago", "hypothesis": "Several centuries ago"}
+{"source": "MERS-CoV is related to several species of bat coronaviruses", "hypothesis": "Related to"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "SARS-related coronaviruses have coevolved closely in bats for a long time", "hypothesis": "that SARS related coronaviruses coevolved in bats for a long time"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "In the 1790s", "hypothesis": "In the 1790s"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Later in the 1890s", "hypothesis": "Later in the 1890s"}
+{"source": "In the 1890s", "hypothesis": "In the 1890s"}
+{"source": "After", "hypothesis": "After"}
+{"source": "After another unforeseen cross-species spillover event", "hypothesis": "After another cross-species spillover event"}
+{"source": "It is speculated that it may have been", "hypothesis": "It is speculated that it may have been"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "In the 1950s", "hypothesis": "In the 1950s"}
+{"source": "Its current genotypes", "hypothesis": "Its present genotypes"}
+{"source": "potential risk factors", "hypothesis": "Risk factor"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "SARS-CoV", "hypothesis": "SARS-CoV"}
+{"source": "SARS-CoV", "hypothesis": "SARS-CoV"}
+{"source": "It causes both upper and lower respiratory tract infections", "hypothesis": "It causes both upper and lower respiratory tract infections"}
+{"source": "Respiratory tract infections", "hypothesis": "Respiratory tract infections"}
+{"source": "Respiratory tract infections", "hypothesis": "Respiratory tract infections"}
+{"source": "Six", "hypothesis": "Six"}
+{"source": "Into two different strains", "hypothesis": "Into two different strains"}
+{"source": "Seven", "hypothesis": "Seven"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "15%", "hypothesis": "15%"}
+{"source": "Rhinoviruses", "hypothesis": "Rhinoviruses"}
+{"source": "Not specified", "hypothesis": "Not specified"}
+{"source": "Not specified", "hypothesis": "Not specified"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Unknown", "hypothesis": "Unknown"}
+{"source": "SARS coronavirus (SARS-CoV)", "hypothesis": "The SARS coronavirus (SARS-CoV)"}
+{"source": "The virus", "hypothesis": "The virus"}
+{"source": "Shortly after", "hypothesis": "soon after"}
+{"source": "It is not specified in the sentence", "hypothesis": "It is not specified in the sentence what triggered the alert, but it can be inferred that it was likely an event or situation that prompted the action, however, the sentence does not provide a direct answer"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Because most infected individuals do not transmit the virus", "hypothesis": "Because most individuals who are infected do not transmit the virus"}
+{"source": "No", "hypothesis": "No"}
+{"source": "Middle East respiratory syndrome novel coronavirus (MERS-CoV)", "hypothesis": "Middle East respiratory syndrome coronavirus (MERS-CoV)"}
+{"source": "Middle East respiratory syndrome novel coronavirus", "hypothesis": "Middle East respiratory syndrome coronavirus"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "2,468", "hypothesis": "2,468"}
+{"source": "851", "hypothesis": "851"}
+{"source": "34.5%", "hypothesis": "approximately 34.5%"}
+{"source": "December 2019", "hypothesis": "December 2019"}
+{"source": "Wuhan, China", "hypothesis": "Wuhan, China"}
+{"source": "China", "hypothesis": "China"}
+{"source": "No", "hypothesis": "No"}
+{"source": "At least 153,822", "hypothesis": "At least 153,822"}
+{"source": "More than 2,240,191", "hypothesis": "More than 2,240,191"}
+{"source": "a novel strain of group 2B betacoronavirus", "hypothesis": "a new strain"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "approximately 70%", "hypothesis": "approximately 70%"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "The 1930s", "hypothesis": "Since the 1930s"}
+{"source": "Diseases", "hypothesis": "Pathological conditions"}
+{"source": "The major associated diseases", "hypothesis": "The major related diseases except for avian infectious bronchitis"}
+{"source": "Infectious avian bronchitis", "hypothesis": "Avian infectious bronchitis"}
+{"source": "Not stated, but it is an exception to those located in the healthy intestine", "hypothesis": "Not specified"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Ferret enteric coronavirus and ferret respiratory systemic coronavirus (FRS)", "hypothesis": "Ferret enteric coronavirus and ferret systemic coronavirus"}
+{"source": "A gastrointestinal syndrome known as epizootic catarrhal enteritis (ECE)", "hypothesis": "A gastrointestinal syndrome known as epizootic catarrhal enteritis (ECE)"}
+{"source": "A gastrointestinal syndrome caused by Ferret enteric coronavirus", "hypothesis": "A gastrointestinal syndrome"}
+{"source": "Ferret respiratory systemic coronavirus (FRS)", "hypothesis": "Ferret systemic coronavirus"}
+{"source": "It is similar to FIP in cats", "hypothesis": "Like FIP in cats"}
+{"source": "There is no information about ferret systemic coronavirus (FSC)", "hypothesis": "A more lethal systemic version of the virus"}
+{"source": "A coronavirus", "hypothesis": "A coronavirus"}
+{"source": "Epidemic murine disease", "hypothesis": "An epidemic murine illness"}
+{"source": "High", "hypothesis": "High"}
+{"source": "Colonies of laboratory mice", "hypothesis": "Colonies of laboratory mice"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Some strains of VHM", "hypothesis": "Some strains of MHV"}
+{"source": "Multiple sclerosis", "hypothesis": "Multiple sclerosis"}
+{"source": "A progressive demyelinating encephalitis in mice", "hypothesis": "A progressive demyelinating encephalitis in mice"}
+{"source": "transmissible porcine gastroenteritis coronavirus, TGEV", "hypothesis": "transmissible gastroenteritis coronavirus of pigs, TGEV"}
+{"source": "TGEV", "hypothesis": "TGEV"}
+{"source": "severe and profuse enteritis in young calves", "hypothesis": "Severe profuse enteritis in young calves"}
+{"source": "It is caused by Bovine coronavirus (BCC)", "hypothesis": "A disease caused by Bovine coronavirus (BCV)"}
+{"source": "Bovine coronavirus (BCC)", "hypothesis": "Bovine coronavirus (BCV)"}
+{"source": "One causing enteritis, the other found in respiratory illnesses", "hypothesis": "One causing enteritis, the other found in respiratory diseases"}
+{"source": "One causing enteritis", "hypothesis": "One causing enteritis"}
+{"source": "The other found in respiratory illnesses", "hypothesis": "The other found in respiratory diseases"}
+{"source": "Ferret enteric coronavirus", "hypothesis": "Ferret enteric coronavirus"}
+{"source": "Acute epizootic catarrhal enteritis", "hypothesis": "Epizootic catarrhal enteritis in ferrets is caused by ferret enteric coronavirus"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
+{"source": "Yes", "hypothesis": "Yes"}
