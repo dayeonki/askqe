@@ -1,4 +1,7 @@
 # AskQE: Question Answering as Automatic Evaluation for Machine Translation
+
+Authors: Dayeon Ki, Kevin Duh, Marine Carpuat
+
 This repository contains the code and dataset for our paper **AskQE: Question Answering as Automatic Evaluation for Machine Translation**.
 
 <div align="center">
