@@ -71,9 +71,9 @@ We show example for each perturbation as follows:
 ## Question Generation
 Given a source sentence, we generate a set of questions that can be answered based on the sentence. Before generating questions, we extract information from the source on what to ask questions about and incorporate it as additional context in the prompt. Specifically, to ensure comprehensive coverage of the information from the source, we implement a two-step natural language inference (NLI) pipeline (as shown in the main figure):
 1. **Fact extraction:** we prompt GPT-4o to extract atomic facts that can be inferred from the source sentence
-2. **Entailment classification:** we use an off-theshelf NLI classifier to assess the binary entailment relationship (entailed or contradictory) between each extracted fact (as the hypothesis) and Xsrc (as the premise)
+2. **Entailment classification:** we use an off-theshelf NLI classifier to assess the binary entailment relationship (entailed or contradictory) between each extracted fact (as the hypothesis) and the source sentence (as the premise)
 
-We discard facts labeled as contradictory, potentially indicating that they cannot be reliably inferred from the source. We then prompt an LLM to generate questions given Xsrc and the filtered set of entailed atomic facts.
+We discard facts labeled as contradictory, potentially indicating that they cannot be reliably inferred from the source. We then prompt an LLM to generate questions given the source sentence and the filtered set of entailed atomic facts.
 We also test different variants: vanilla and semantic. Results for each variant can be found in `QG/{model}/{variant}_{model}.jsonl`.
 
 To run question generation for each model,
