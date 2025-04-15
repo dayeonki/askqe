@@ -11,7 +11,7 @@ This repository contains the code and dataset for our paper **AskQE: Question An
 
 
 ## Abstract
-How can a monolingual English speaker determine whether an automatic translation in French is good enough to be shared? Existing MT error detection and quality estimation (QE) techniques do not address this practical scenario. We introduce AskQE, a question generation and answering framework designed to detect critical MT errors and provide actionable feedback, helping users decide whether to accept or reject MT outputs even without the knowledge of the target language. We propose an optimized version of AskQE using LLaMA-3 70B given entailed facts during question generation. We evaluate our method on the ContraTICO dataset across five language pairs, and show that AskQE effectively identifies critical MT errors with high correlations with established QE metrics. We further extend our analysis on the BioMQM dataset of naturally occurring MT errors, where we show that AskQE has higher Kendall's Tau correlation and decision accuracy with human ratings compared to other QE metrics.
+How can a monolingual English speaker determine whether an automatic translation in French is good enough to be shared? Existing MT error detection and quality estimation (QE) techniques do not address this practical scenario. We introduce AskQE, a question generation and answering framework designed to detect critical MT errors and provide actionable feedback, helping users decide whether to accept or reject MT outputs even without the knowledge of the target language. Using ContraTICO, a dataset of contrastive synthetic MT errors in the COVID-19 domain, we explore design choices for AskQE and develop an optimized version relying on LLaMA-3 70b and entailed facts to guide question generation. We evaluate the resulting system on the BioMQM dataset of naturally occurring MT errors, where AskQE has higher Kendall's Tau correlation and decision accuracy with human ratings compared to other QE metrics.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ebb29d1f-1cf2-43b7-a907-a5178446bf0f" width="500">
@@ -34,7 +34,7 @@ How can a monolingual English speaker determine whether an automatic translation
 How can we identify critical translation errors and provide actionable feedback tohelp monolingual source speakers decide whether to accept or reject MT in high-stake contexts? We propose **AskQE**, a question generation and answering framework based on the idea that a translation is unreliable if key questions about the source text yield different answers when derived from the source or the backtranslated MT. We first generate a list of questions conditioned on the source (**QG**), generate answers for each question based on the source or the backtranslated MT output (**QA**), and compute the answer overlap. The following figure illustrates each process:
 
 <p align="center">
-<img width="786" alt="Screenshot 2025-03-21 at 3 31 56 PM" src="https://github.com/user-attachments/assets/6936b0c1-e8b0-4c38-a3af-4d0feba424e7" />
+<img width="888" alt="Screenshot 2025-03-21 at 3 31 56 PM" src="https://github.com/user-attachments/assets/c70def86-f16d-4c61-9801-3ab3622569eb" />
 </p>
 
 
