@@ -2,7 +2,7 @@
 
 Authors: Dayeon Ki, Kevin Duh, Marine Carpuat
 
-This repository contains the code and dataset for our paper **AskQE: Question Answering as Automatic Evaluation for Machine Translation**.
+This repository contains the code and dataset for our ACL 2025 Findings paper **AskQE: Question Answering as Automatic Evaluation for Machine Translation**.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/b3415a65-ccac-4468-a291-07602cb95509" style="width: 15px;" alt="code"> <b><a href=https://github.com/dayeonki/askqe>Code</a></b> | <img src="https://github.com/user-attachments/assets/2bd9af9b-2182-4aef-83cd-6e9ca6189a39" style="width: 15px;" alt="data">
